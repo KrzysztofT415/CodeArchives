@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GameProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/krzys/CLionProjects/AiSD-L2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GameProject">
+				<Option output="C:/Users/krzys/CLionProjects/AiSD-L2/cmake-build-debug/GameProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/krzys/CLionProjects/AiSD-L2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/krzys/CLionProjects/AiSD-L2/inc"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 GameProject"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GameProject/fast">
+				<Option output="C:/Users/krzys/CLionProjects/AiSD-L2/cmake-build-debug/GameProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/krzys/CLionProjects/AiSD-L2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/krzys/CLionProjects/AiSD-L2/inc"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 GameProject/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/krzys/CLionProjects/AiSD-L2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/krzys/CLionProjects/AiSD-L2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\krzys\CLionProjects\AiSD-L2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/app/main.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/circle.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/diamond.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/figure.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/figureException.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/hexagon.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/pentagon.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/rectangle.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/square.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/inc/sortTypes/tetragon.hpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/src/shapes/circle.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/src/shapes/diamond.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/src/shapes/figureException.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/src/shapes/hexagon.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/src/shapes/pentagon.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/src/shapes/rectangle.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/src/shapes/square.cpp">
+			<Option target="GameProject"/>
+		</Unit>
+		<Unit filename="C:/Users/krzys/CLionProjects/AiSD-L2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

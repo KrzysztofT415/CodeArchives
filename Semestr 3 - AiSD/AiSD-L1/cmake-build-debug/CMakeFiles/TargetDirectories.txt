@@ -1,0 +1,6 @@
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L1/cmake-build-debug/CMakeFiles/zad1LIFO.dir
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L1/cmake-build-debug/CMakeFiles/zad3.dir
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L1/cmake-build-debug/CMakeFiles/zad1FIFO.dir
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L1/cmake-build-debug/CMakeFiles/zad2.dir
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

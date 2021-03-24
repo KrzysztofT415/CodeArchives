@@ -1,0 +1,1342 @@
+n : 100;  type : insertion;	  compares : 2539;	moves : 2640;	time : 90 us
+n : 100;  type : merge;    	  compares : 543;	moves : 1344;	time : 134 us
+n : 100;  type : combined;	  compares : 2539;	moves : 2640;	time : 66 us;	 t : 100
+n : 100;  type : combined;	  compares : 1449;	moves : 1656;	time : 45 us;	 t : 50
+n : 100;  type : combined;	  compares : 902;	moves : 1212;	time : 38 us;	 t : 25
+n : 100;  type : combined;	  compares : 662;	moves : 1083;	time : 42 us;	 t : 12
+n : 100;  type : combined;	  compares : 558;	moves : 1091;	time : 55 us;	 t : 6
+n : 100;  type : combined;	  compares : 534;	moves : 1184;	time : 79 us;	 t : 3
+n : 200;  type : insertion;	  compares : 10751;	moves : 10953;	time : 356 us
+n : 200;  type : merge;    	  compares : 1268;	moves : 3088;	time : 249 us
+n : 200;  type : combined;	  compares : 10751;	moves : 10953;	time : 272 us;	 t : 200
+n : 200;  type : combined;	  compares : 5681;	moves : 6087;	time : 159 us;	 t : 100
+n : 200;  type : combined;	  compares : 2919;	moves : 3542;	time : 128 us;	 t : 50
+n : 200;  type : combined;	  compares : 2014;	moves : 2845;	time : 115 us;	 t : 25
+n : 200;  type : combined;	  compares : 1516;	moves : 2571;	time : 153 us;	 t : 12
+n : 200;  type : combined;	  compares : 1310;	moves : 2598;	time : 202 us;	 t : 6
+n : 200;  type : combined;	  compares : 1273;	moves : 2781;	time : 279 us;	 t : 3
+n : 300;  type : insertion;	  compares : 21820;	moves : 22123;	time : 718 us
+n : 300;  type : merge;    	  compares : 2113;	moves : 4976;	time : 423 us
+n : 300;  type : combined;	  compares : 21820;	moves : 22123;	time : 544 us;	 t : 300
+n : 300;  type : combined;	  compares : 11729;	moves : 12336;	time : 310 us;	 t : 150
+n : 300;  type : combined;	  compares : 6319;	moves : 7234;	time : 189 us;	 t : 75
+n : 300;  type : combined;	  compares : 3976;	moves : 5213;	time : 147 us;	 t : 37
+n : 300;  type : combined;	  compares : 2797;	moves : 4360;	time : 142 us;	 t : 18
+n : 300;  type : combined;	  compares : 2299;	moves : 4182;	time : 168 us;	 t : 9
+n : 300;  type : combined;	  compares : 2140;	moves : 4364;	time : 222 us;	 t : 4
+n : 300;  type : combined;	  compares : 2116;	moves : 4582;	time : 286 us;	 t : 2
+n : 400;  type : insertion;	  compares : 41096;	moves : 41503;	time : 1040 us
+n : 400;  type : merge;    	  compares : 2971;	moves : 6976;	time : 508 us
+n : 400;  type : combined;	  compares : 41096;	moves : 41503;	time : 1038 us;	 t : 400
+n : 400;  type : combined;	  compares : 20665;	moves : 21479;	time : 540 us;	 t : 200
+n : 400;  type : combined;	  compares : 11165;	moves : 12386;	time : 322 us;	 t : 100
+n : 400;  type : combined;	  compares : 6596;	moves : 8226;	time : 229 us;	 t : 50
+n : 400;  type : combined;	  compares : 4544;	moves : 6602;	time : 271 us;	 t : 25
+n : 400;  type : combined;	  compares : 3472;	moves : 5961;	time : 204 us;	 t : 12
+n : 400;  type : combined;	  compares : 3087;	moves : 6024;	time : 301 us;	 t : 6
+n : 400;  type : combined;	  compares : 2979;	moves : 6362;	time : 355 us;	 t : 3
+n : 500;  type : insertion;	  compares : 64664;	moves : 65170;	time : 1614 us
+n : 500;  type : merge;    	  compares : 3861;	moves : 8976;	time : 638 us
+n : 500;  type : combined;	  compares : 64664;	moves : 65170;	time : 1607 us;	 t : 500
+n : 500;  type : combined;	  compares : 32414;	moves : 33428;	time : 852 us;	 t : 250
+n : 500;  type : combined;	  compares : 16371;	moves : 17892;	time : 457 us;	 t : 125
+n : 500;  type : combined;	  compares : 9653;	moves : 11687;	time : 315 us;	 t : 62
+n : 500;  type : combined;	  compares : 6185;	moves : 8741;	time : 253 us;	 t : 31
+n : 500;  type : combined;	  compares : 4589;	moves : 7683;	time : 256 us;	 t : 15
+n : 500;  type : combined;	  compares : 4061;	moves : 7716;	time : 308 us;	 t : 7
+n : 500;  type : combined;	  compares : 3894;	moves : 8105;	time : 422 us;	 t : 3
+n : 600;  type : insertion;	  compares : 95037;	moves : 95641;	time : 2361 us
+n : 600;  type : merge;    	  compares : 4793;	moves : 11152;	time : 745 us
+n : 600;  type : combined;	  compares : 95037;	moves : 95641;	time : 2381 us;	 t : 600
+n : 600;  type : combined;	  compares : 47220;	moves : 48432;	time : 1682 us;	 t : 300
+n : 600;  type : combined;	  compares : 23494;	moves : 25313;	time : 1029 us;	 t : 150
+n : 600;  type : combined;	  compares : 13698;	moves : 16137;	time : 680 us;	 t : 75
+n : 600;  type : combined;	  compares : 8462;	moves : 11527;	time : 347 us;	 t : 37
+n : 600;  type : combined;	  compares : 6050;	moves : 9751;	time : 311 us;	 t : 18
+n : 600;  type : combined;	  compares : 5093;	moves : 9447;	time : 427 us;	 t : 9
+n : 600;  type : combined;	  compares : 4830;	moves : 9866;	time : 624 us;	 t : 4
+n : 600;  type : combined;	  compares : 4793;	moves : 10320;	time : 866 us;	 t : 2
+n : 700;  type : insertion;	  compares : 124510;	moves : 125220;	time : 3493 us
+n : 700;  type : merge;    	  compares : 5747;	moves : 13352;	time : 1291 us
+n : 700;  type : combined;	  compares : 124510;	moves : 125220;	time : 4209 us;	 t : 700
+n : 700;  type : combined;	  compares : 61792;	moves : 63205;	time : 1569 us;	 t : 350
+n : 700;  type : combined;	  compares : 31529;	moves : 33648;	time : 849 us;	 t : 175
+n : 700;  type : combined;	  compares : 17943;	moves : 20782;	time : 541 us;	 t : 87
+n : 700;  type : combined;	  compares : 10836;	moves : 14406;	time : 396 us;	 t : 43
+n : 700;  type : combined;	  compares : 7790;	moves : 12107;	time : 386 us;	 t : 21
+n : 700;  type : combined;	  compares : 6385;	moves : 11473;	time : 394 us;	 t : 10
+n : 700;  type : combined;	  compares : 5871;	moves : 11757;	time : 542 us;	 t : 5
+n : 700;  type : combined;	  compares : 5730;	moves : 12392;	time : 694 us;	 t : 2
+n : 800;  type : insertion;	  compares : 152109;	moves : 152913;	time : 3821 us
+n : 800;  type : merge;    	  compares : 6750;	moves : 15552;	time : 976 us
+n : 800;  type : combined;	  compares : 152109;	moves : 152913;	time : 3760 us;	 t : 800
+n : 800;  type : combined;	  compares : 78714;	moves : 80325;	time : 1973 us;	 t : 400
+n : 800;  type : combined;	  compares : 41334;	moves : 43757;	time : 1093 us;	 t : 200
+n : 800;  type : combined;	  compares : 22481;	moves : 25717;	time : 657 us;	 t : 100
+n : 800;  type : combined;	  compares : 13655;	moves : 17714;	time : 478 us;	 t : 50
+n : 800;  type : combined;	  compares : 9508;	moves : 14398;	time : 424 us;	 t : 25
+n : 800;  type : combined;	  compares : 7585;	moves : 13345;	time : 446 us;	 t : 12
+n : 800;  type : combined;	  compares : 6910;	moves : 13558;	time : 553 us;	 t : 6
+n : 800;  type : combined;	  compares : 6756;	moves : 14299;	time : 736 us;	 t : 3
+n : 900;  type : insertion;	  compares : 200491;	moves : 201397;	time : 4993 us
+n : 900;  type : merge;    	  compares : 7705;	moves : 17752;	time : 1124 us
+n : 900;  type : combined;	  compares : 200491;	moves : 201397;	time : 5170 us;	 t : 900
+n : 900;  type : combined;	  compares : 104992;	moves : 106802;	time : 2681 us;	 t : 450
+n : 900;  type : combined;	  compares : 55360;	moves : 58084;	time : 1452 us;	 t : 225
+n : 900;  type : combined;	  compares : 28515;	moves : 32161;	time : 870 us;	 t : 112
+n : 900;  type : combined;	  compares : 16987;	moves : 21556;	time : 602 us;	 t : 56
+n : 900;  type : combined;	  compares : 11463;	moves : 16982;	time : 495 us;	 t : 28
+n : 900;  type : combined;	  compares : 8916;	moves : 15423;	time : 507 us;	 t : 14
+n : 900;  type : combined;	  compares : 8029;	moves : 15540;	time : 666 us;	 t : 7
+n : 900;  type : combined;	  compares : 7741;	moves : 16272;	time : 878 us;	 t : 3
+n : 1000;  type : insertion;	  compares : 247123;	moves : 248130;	time : 6456 us
+n : 1000;  type : merge;    	  compares : 8692;	moves : 19952;	time : 1418 us
+n : 1000;  type : combined;	  compares : 247123;	moves : 248130;	time : 6376 us;	 t : 1000
+n : 1000;  type : combined;	  compares : 127374;	moves : 129389;	time : 3385 us;	 t : 500
+n : 1000;  type : combined;	  compares : 66847;	moves : 69874;	time : 2179 us;	 t : 250
+n : 1000;  type : combined;	  compares : 36143;	moves : 40193;	time : 1045 us;	 t : 125
+n : 1000;  type : combined;	  compares : 21112;	moves : 26211;	time : 711 us;	 t : 62
+n : 1000;  type : combined;	  compares : 13451;	moves : 19599;	time : 587 us;	 t : 31
+n : 1000;  type : combined;	  compares : 10441;	moves : 17694;	time : 615 us;	 t : 15
+n : 1000;  type : combined;	  compares : 9087;	moves : 17448;	time : 724 us;	 t : 7
+n : 1000;  type : combined;	  compares : 8750;	moves : 18228;	time : 941 us;	 t : 3
+n : 1100;  type : insertion;	  compares : 304049;	moves : 305153;	time : 7896 us
+n : 1100;  type : merge;    	  compares : 9732;	moves : 22304;	time : 1726 us
+n : 1100;  type : combined;	  compares : 304049;	moves : 305153;	time : 7763 us;	 t : 1100
+n : 1100;  type : combined;	  compares : 160662;	moves : 162872;	time : 4277 us;	 t : 550
+n : 1100;  type : combined;	  compares : 79518;	moves : 82840;	time : 3109 us;	 t : 275
+n : 1100;  type : combined;	  compares : 43325;	moves : 47763;	time : 1915 us;	 t : 137
+n : 1100;  type : combined;	  compares : 24452;	moves : 30024;	time : 1157 us;	 t : 68
+n : 1100;  type : combined;	  compares : 15655;	moves : 22384;	time : 975 us;	 t : 34
+n : 1100;  type : combined;	  compares : 11967;	moves : 19890;	time : 930 us;	 t : 17
+n : 1100;  type : combined;	  compares : 10350;	moves : 19484;	time : 764 us;	 t : 8
+n : 1100;  type : combined;	  compares : 9857;	moves : 20248;	time : 926 us;	 t : 4
+n : 1100;  type : combined;	  compares : 9794;	moves : 20610;	time : 994 us;	 t : 2
+n : 1200;  type : insertion;	  compares : 364852;	moves : 366059;	time : 9059 us
+n : 1200;  type : merge;    	  compares : 10738;	moves : 24704;	time : 1453 us
+n : 1200;  type : combined;	  compares : 364852;	moves : 366059;	time : 8954 us;	 t : 1200
+n : 1200;  type : combined;	  compares : 185197;	moves : 187614;	time : 4727 us;	 t : 600
+n : 1200;  type : combined;	  compares : 95829;	moves : 99462;	time : 2431 us;	 t : 300
+n : 1200;  type : combined;	  compares : 49688;	moves : 54541;	time : 1360 us;	 t : 150
+n : 1200;  type : combined;	  compares : 28036;	moves : 34116;	time : 883 us;	 t : 75
+n : 1200;  type : combined;	  compares : 17848;	moves : 25191;	time : 698 us;	 t : 37
+n : 1200;  type : combined;	  compares : 13430;	moves : 22059;	time : 670 us;	 t : 18
+n : 1200;  type : combined;	  compares : 11472;	moves : 21431;	time : 752 us;	 t : 9
+n : 1200;  type : combined;	  compares : 10856;	moves : 22208;	time : 934 us;	 t : 4
+n : 1200;  type : combined;	  compares : 10781;	moves : 23107;	time : 1181 us;	 t : 2
+n : 1300;  type : insertion;	  compares : 421644;	moves : 422950;	time : 10316 us
+n : 1300;  type : merge;    	  compares : 11858;	moves : 27104;	time : 1608 us
+n : 1300;  type : combined;	  compares : 421644;	moves : 422950;	time : 10307 us;	 t : 1300
+n : 1300;  type : combined;	  compares : 214461;	moves : 217071;	time : 5271 us;	 t : 650
+n : 1300;  type : combined;	  compares : 110318;	moves : 114242;	time : 2799 us;	 t : 325
+n : 1300;  type : combined;	  compares : 58085;	moves : 63325;	time : 1577 us;	 t : 162
+n : 1300;  type : combined;	  compares : 32567;	moves : 39137;	time : 1025 us;	 t : 81
+n : 1300;  type : combined;	  compares : 20461;	moves : 28377;	time : 780 us;	 t : 40
+n : 1300;  type : combined;	  compares : 15138;	moves : 24446;	time : 738 us;	 t : 20
+n : 1300;  type : combined;	  compares : 12870;	moves : 23610;	time : 809 us;	 t : 10
+n : 1300;  type : combined;	  compares : 12013;	moves : 24210;	time : 994 us;	 t : 5
+n : 1300;  type : combined;	  compares : 11864;	moves : 25517;	time : 1354 us;	 t : 2
+n : 1400;  type : insertion;	  compares : 479118;	moves : 480521;	time : 11755 us
+n : 1400;  type : merge;    	  compares : 12937;	moves : 29504;	time : 1727 us
+n : 1400;  type : combined;	  compares : 479118;	moves : 480521;	time : 11713 us;	 t : 1400
+n : 1400;  type : combined;	  compares : 239742;	moves : 242556;	time : 5939 us;	 t : 700
+n : 1400;  type : combined;	  compares : 124112;	moves : 128342;	time : 3140 us;	 t : 350
+n : 1400;  type : combined;	  compares : 66233;	moves : 71890;	time : 1789 us;	 t : 175
+n : 1400;  type : combined;	  compares : 37433;	moves : 44526;	time : 1143 us;	 t : 87
+n : 1400;  type : combined;	  compares : 23639;	moves : 32178;	time : 872 us;	 t : 43
+n : 1400;  type : combined;	  compares : 16805;	moves : 26831;	time : 796 us;	 t : 21
+n : 1400;  type : combined;	  compares : 13978;	moves : 25541;	time : 864 us;	 t : 10
+n : 1400;  type : combined;	  compares : 13091;	moves : 26221;	time : 1055 us;	 t : 5
+n : 1400;  type : combined;	  compares : 12929;	moves : 27597;	time : 1446 us;	 t : 2
+n : 1500;  type : insertion;	  compares : 563048;	moves : 564551;	time : 13764 us
+n : 1500;  type : merge;    	  compares : 13993;	moves : 31904;	time : 1990 us
+n : 1500;  type : combined;	  compares : 563048;	moves : 564551;	time : 13769 us;	 t : 1500
+n : 1500;  type : combined;	  compares : 278785;	moves : 281792;	time : 6903 us;	 t : 750
+n : 1500;  type : combined;	  compares : 147217;	moves : 151737;	time : 3728 us;	 t : 375
+n : 1500;  type : combined;	  compares : 76980;	moves : 83022;	time : 2064 us;	 t : 187
+n : 1500;  type : combined;	  compares : 42055;	moves : 49634;	time : 1268 us;	 t : 93
+n : 1500;  type : combined;	  compares : 26051;	moves : 35192;	time : 948 us;	 t : 46
+n : 1500;  type : combined;	  compares : 18509;	moves : 29249;	time : 860 us;	 t : 23
+n : 1500;  type : combined;	  compares : 15368;	moves : 27746;	time : 909 us;	 t : 11
+n : 1500;  type : combined;	  compares : 14254;	moves : 28291;	time : 1093 us;	 t : 5
+n : 1500;  type : combined;	  compares : 13959;	moves : 29669;	time : 1450 us;	 t : 2
+n : 1600;  type : insertion;	  compares : 648204;	moves : 649813;	time : 15923 us
+n : 1600;  type : merge;    	  compares : 15065;	moves : 34304;	time : 1966 us
+n : 1600;  type : combined;	  compares : 648204;	moves : 649813;	time : 15844 us;	 t : 1600
+n : 1600;  type : combined;	  compares : 324799;	moves : 328013;	time : 7969 us;	 t : 800
+n : 1600;  type : combined;	  compares : 162526;	moves : 167351;	time : 4141 us;	 t : 400
+n : 1600;  type : combined;	  compares : 87111;	moves : 93559;	time : 2323 us;	 t : 200
+n : 1600;  type : combined;	  compares : 47644;	moves : 55723;	time : 1420 us;	 t : 100
+n : 1600;  type : combined;	  compares : 28863;	moves : 38586;	time : 1035 us;	 t : 50
+n : 1600;  type : combined;	  compares : 20316;	moves : 31723;	time : 927 us;	 t : 25
+n : 1600;  type : combined;	  compares : 16753;	moves : 29910;	time : 965 us;	 t : 12
+n : 1600;  type : combined;	  compares : 15457;	moves : 30395;	time : 1140 us;	 t : 6
+n : 1600;  type : combined;	  compares : 15064;	moves : 31817;	time : 1496 us;	 t : 3
+n : 1700;  type : insertion;	  compares : 712719;	moves : 714425;	time : 17495 us
+n : 1700;  type : merge;    	  compares : 16107;	moves : 36704;	time : 2176 us
+n : 1700;  type : combined;	  compares : 712719;	moves : 714425;	time : 17841 us;	 t : 1700
+n : 1700;  type : combined;	  compares : 355804;	moves : 359212;	time : 9147 us;	 t : 850
+n : 1700;  type : combined;	  compares : 177999;	moves : 183119;	time : 4665 us;	 t : 425
+n : 1700;  type : combined;	  compares : 93450;	moves : 100293;	time : 2487 us;	 t : 212
+n : 1700;  type : combined;	  compares : 53038;	moves : 61618;	time : 1564 us;	 t : 106
+n : 1700;  type : combined;	  compares : 32047;	moves : 42384;	time : 1132 us;	 t : 53
+n : 1700;  type : combined;	  compares : 22552;	moves : 34686;	time : 1015 us;	 t : 26
+n : 1700;  type : combined;	  compares : 18257;	moves : 32245;	time : 1074 us;	 t : 13
+n : 1700;  type : combined;	  compares : 16566;	moves : 32480;	time : 1205 us;	 t : 6
+n : 1700;  type : combined;	  compares : 16167;	moves : 34016;	time : 1565 us;	 t : 3
+n : 1800;  type : insertion;	  compares : 812321;	moves : 814124;	time : 19883 us
+n : 1800;  type : merge;    	  compares : 17222;	moves : 39104;	time : 2253 us
+n : 1800;  type : combined;	  compares : 812321;	moves : 814124;	time : 19834 us;	 t : 1800
+n : 1800;  type : combined;	  compares : 405805;	moves : 409418;	time : 9997 us;	 t : 900
+n : 1800;  type : combined;	  compares : 202004;	moves : 207431;	time : 5091 us;	 t : 450
+n : 1800;  type : combined;	  compares : 103757;	moves : 111004;	time : 2747 us;	 t : 225
+n : 1800;  type : combined;	  compares : 58290;	moves : 67378;	time : 1711 us;	 t : 112
+n : 1800;  type : combined;	  compares : 35246;	moves : 46190;	time : 1227 us;	 t : 56
+n : 1800;  type : combined;	  compares : 24383;	moves : 37223;	time : 1062 us;	 t : 28
+n : 1800;  type : combined;	  compares : 19665;	moves : 34474;	time : 1098 us;	 t : 14
+n : 1800;  type : combined;	  compares : 17862;	moves : 34682;	time : 1276 us;	 t : 7
+n : 1800;  type : combined;	  compares : 17307;	moves : 36173;	time : 1648 us;	 t : 3
+n : 1900;  type : insertion;	  compares : 887061;	moves : 888963;	time : 21791 us
+n : 1900;  type : merge;    	  compares : 18283;	moves : 41504;	time : 2392 us
+n : 1900;  type : combined;	  compares : 887061;	moves : 888963;	time : 21857 us;	 t : 1900
+n : 1900;  type : combined;	  compares : 449769;	moves : 453579;	time : 11112 us;	 t : 950
+n : 1900;  type : combined;	  compares : 226800;	moves : 232520;	time : 5676 us;	 t : 475
+n : 1900;  type : combined;	  compares : 118197;	moves : 125842;	time : 3123 us;	 t : 237
+n : 1900;  type : combined;	  compares : 65017;	moves : 74591;	time : 1883 us;	 t : 118
+n : 1900;  type : combined;	  compares : 38964;	moves : 50517;	time : 1336 us;	 t : 59
+n : 1900;  type : combined;	  compares : 26477;	moves : 40045;	time : 1138 us;	 t : 29
+n : 1900;  type : combined;	  compares : 21192;	moves : 36842;	time : 1164 us;	 t : 14
+n : 1900;  type : combined;	  compares : 18966;	moves : 36730;	time : 1354 us;	 t : 7
+n : 1900;  type : combined;	  compares : 18403;	moves : 38327;	time : 1714 us;	 t : 3
+n : 2000;  type : insertion;	  compares : 1015260;	moves : 1017261;	time : 24775 us
+n : 2000;  type : merge;    	  compares : 19363;	moves : 43904;	time : 2493 us
+n : 2000;  type : combined;	  compares : 1015260;	moves : 1017261;	time : 24754 us;	 t : 2000
+n : 2000;  type : combined;	  compares : 509087;	moves : 513098;	time : 12542 us;	 t : 1000
+n : 2000;  type : combined;	  compares : 264316;	moves : 270340;	time : 6653 us;	 t : 500
+n : 2000;  type : combined;	  compares : 133959;	moves : 142001;	time : 3505 us;	 t : 250
+n : 2000;  type : combined;	  compares : 71078;	moves : 81151;	time : 2045 us;	 t : 125
+n : 2000;  type : combined;	  compares : 41449;	moves : 53583;	time : 1410 us;	 t : 62
+n : 2000;  type : combined;	  compares : 28378;	moves : 42620;	time : 1204 us;	 t : 31
+n : 2000;  type : combined;	  compares : 22357;	moves : 38767;	time : 1205 us;	 t : 15
+n : 2000;  type : combined;	  compares : 20152;	moves : 38816;	time : 1384 us;	 t : 7
+n : 2000;  type : combined;	  compares : 19467;	moves : 40411;	time : 1761 us;	 t : 3
+n : 2100;  type : insertion;	  compares : 1103541;	moves : 1105647;	time : 26928 us
+n : 2100;  type : merge;    	  compares : 20535;	moves : 46408;	time : 2610 us
+n : 2100;  type : combined;	  compares : 1103541;	moves : 1105647;	time : 26917 us;	 t : 2100
+n : 2100;  type : combined;	  compares : 548298;	moves : 552507;	time : 13474 us;	 t : 1050
+n : 2100;  type : combined;	  compares : 285108;	moves : 291429;	time : 7150 us;	 t : 525
+n : 2100;  type : combined;	  compares : 146587;	moves : 155036;	time : 3821 us;	 t : 262
+n : 2100;  type : combined;	  compares : 78675;	moves : 89254;	time : 2243 us;	 t : 131
+n : 2100;  type : combined;	  compares : 46406;	moves : 59149;	time : 1553 us;	 t : 65
+n : 2100;  type : combined;	  compares : 31218;	moves : 46157;	time : 1291 us;	 t : 32
+n : 2100;  type : combined;	  compares : 24459;	moves : 41669;	time : 1276 us;	 t : 16
+n : 2100;  type : combined;	  compares : 21604;	moves : 41170;	time : 1464 us;	 t : 8
+n : 2100;  type : combined;	  compares : 20715;	moves : 42653;	time : 1812 us;	 t : 4
+n : 2100;  type : combined;	  compares : 20693;	moves : 42917;	time : 1869 us;	 t : 2
+n : 2200;  type : insertion;	  compares : 1208889;	moves : 1211098;	time : 29415 us
+n : 2200;  type : merge;    	  compares : 21653;	moves : 49008;	time : 2743 us
+n : 2200;  type : combined;	  compares : 1208889;	moves : 1211098;	time : 29495 us;	 t : 2200
+n : 2200;  type : combined;	  compares : 599178;	moves : 603596;	time : 14803 us;	 t : 1100
+n : 2200;  type : combined;	  compares : 309068;	moves : 315695;	time : 7697 us;	 t : 550
+n : 2200;  type : combined;	  compares : 158982;	moves : 167837;	time : 4189 us;	 t : 275
+n : 2200;  type : combined;	  compares : 87186;	moves : 98271;	time : 2494 us;	 t : 137
+n : 2200;  type : combined;	  compares : 50951;	moves : 64323;	time : 1677 us;	 t : 68
+n : 2200;  type : combined;	  compares : 33471;	moves : 49143;	time : 1373 us;	 t : 34
+n : 2200;  type : combined;	  compares : 25795;	moves : 43859;	time : 1337 us;	 t : 17
+n : 2200;  type : combined;	  compares : 22913;	moves : 43440;	time : 1499 us;	 t : 8
+n : 2200;  type : combined;	  compares : 21902;	moves : 44906;	time : 1864 us;	 t : 4
+n : 2200;  type : combined;	  compares : 21786;	moves : 45628;	time : 2080 us;	 t : 2
+n : 2300;  type : insertion;	  compares : 1319978;	moves : 1322282;	time : 32699 us
+n : 2300;  type : merge;    	  compares : 22856;	moves : 51608;	time : 2986 us
+n : 2300;  type : combined;	  compares : 1319978;	moves : 1322282;	time : 33010 us;	 t : 2300
+n : 2300;  type : combined;	  compares : 657575;	moves : 662187;	time : 16628 us;	 t : 1150
+n : 2300;  type : combined;	  compares : 335201;	moves : 342129;	time : 8598 us;	 t : 575
+n : 2300;  type : combined;	  compares : 175958;	moves : 185208;	time : 4699 us;	 t : 287
+n : 2300;  type : combined;	  compares : 92297;	moves : 103887;	time : 2681 us;	 t : 143
+n : 2300;  type : combined;	  compares : 54418;	moves : 68368;	time : 1835 us;	 t : 71
+n : 2300;  type : combined;	  compares : 35891;	moves : 52270;	time : 1496 us;	 t : 35
+n : 2300;  type : combined;	  compares : 27586;	moves : 46428;	time : 1446 us;	 t : 17
+n : 2300;  type : combined;	  compares : 23988;	moves : 45364;	time : 1580 us;	 t : 8
+n : 2300;  type : combined;	  compares : 22980;	moves : 46963;	time : 1926 us;	 t : 4
+n : 2300;  type : combined;	  compares : 22923;	moves : 48287;	time : 2280 us;	 t : 2
+n : 2400;  type : insertion;	  compares : 1458886;	moves : 1461290;	time : 36320 us
+n : 2400;  type : merge;    	  compares : 23970;	moves : 54208;	time : 3107 us
+n : 2400;  type : combined;	  compares : 1458886;	moves : 1461290;	time : 36840 us;	 t : 2400
+n : 2400;  type : combined;	  compares : 739100;	moves : 743913;	time : 18274 us;	 t : 1200
+n : 2400;  type : combined;	  compares : 368461;	moves : 375681;	time : 9448 us;	 t : 600
+n : 2400;  type : combined;	  compares : 188248;	moves : 197892;	time : 5041 us;	 t : 300
+n : 2400;  type : combined;	  compares : 100749;	moves : 112819;	time : 2910 us;	 t : 150
+n : 2400;  type : combined;	  compares : 58971;	moves : 73515;	time : 1967 us;	 t : 75
+n : 2400;  type : combined;	  compares : 38465;	moves : 55536;	time : 1581 us;	 t : 37
+n : 2400;  type : combined;	  compares : 29228;	moves : 48889;	time : 1513 us;	 t : 18
+n : 2400;  type : combined;	  compares : 25467;	moves : 47773;	time : 1665 us;	 t : 9
+n : 2400;  type : combined;	  compares : 24221;	moves : 49253;	time : 2046 us;	 t : 4
+n : 2400;  type : combined;	  compares : 23996;	moves : 50969;	time : 2544 us;	 t : 2
+n : 2500;  type : insertion;	  compares : 1527201;	moves : 1529708;	time : 38407 us
+n : 2500;  type : merge;    	  compares : 25139;	moves : 56808;	time : 3256 us
+n : 2500;  type : combined;	  compares : 1527201;	moves : 1529708;	time : 38434 us;	 t : 2500
+n : 2500;  type : combined;	  compares : 760052;	moves : 765069;	time : 19214 us;	 t : 1250
+n : 2500;  type : combined;	  compares : 390831;	moves : 398364;	time : 10014 us;	 t : 625
+n : 2500;  type : combined;	  compares : 207312;	moves : 217364;	time : 5489 us;	 t : 312
+n : 2500;  type : combined;	  compares : 108905;	moves : 121493;	time : 3129 us;	 t : 156
+n : 2500;  type : combined;	  compares : 63567;	moves : 78739;	time : 2100 us;	 t : 78
+n : 2500;  type : combined;	  compares : 40902;	moves : 58692;	time : 1662 us;	 t : 39
+n : 2500;  type : combined;	  compares : 31106;	moves : 51572;	time : 1589 us;	 t : 19
+n : 2500;  type : combined;	  compares : 26801;	moves : 50014;	time : 1737 us;	 t : 9
+n : 2500;  type : combined;	  compares : 25451;	moves : 51477;	time : 2115 us;	 t : 4
+n : 2500;  type : combined;	  compares : 25162;	moves : 53733;	time : 2758 us;	 t : 2
+n : 2600;  type : insertion;	  compares : 1702247;	moves : 1704857;	time : 42917 us
+n : 2600;  type : merge;    	  compares : 26330;	moves : 59408;	time : 3402 us
+n : 2600;  type : combined;	  compares : 1702247;	moves : 1704857;	time : 42463 us;	 t : 2600
+n : 2600;  type : combined;	  compares : 861924;	moves : 867134;	time : 21691 us;	 t : 1300
+n : 2600;  type : combined;	  compares : 430176;	moves : 437997;	time : 11559 us;	 t : 650
+n : 2600;  type : combined;	  compares : 221679;	moves : 232124;	time : 5861 us;	 t : 325
+n : 2600;  type : combined;	  compares : 119058;	moves : 132136;	time : 3397 us;	 t : 162
+n : 2600;  type : combined;	  compares : 66912;	moves : 82653;	time : 2218 us;	 t : 81
+n : 2600;  type : combined;	  compares : 43051;	moves : 61502;	time : 1738 us;	 t : 40
+n : 2600;  type : combined;	  compares : 32587;	moves : 53809;	time : 1658 us;	 t : 20
+n : 2600;  type : combined;	  compares : 28163;	moves : 52233;	time : 1807 us;	 t : 10
+n : 2600;  type : combined;	  compares : 26605;	moves : 53634;	time : 2165 us;	 t : 5
+n : 2600;  type : combined;	  compares : 26339;	moves : 56243;	time : 2825 us;	 t : 2
+n : 2700;  type : insertion;	  compares : 1863889;	moves : 1866598;	time : 46783 us
+n : 2700;  type : merge;    	  compares : 27412;	moves : 62008;	time : 3547 us
+n : 2700;  type : combined;	  compares : 1863889;	moves : 1866598;	time : 47100 us;	 t : 2700
+n : 2700;  type : combined;	  compares : 927438;	moves : 932854;	time : 23372 us;	 t : 1350
+n : 2700;  type : combined;	  compares : 466959;	moves : 475086;	time : 11965 us;	 t : 675
+n : 2700;  type : combined;	  compares : 237479;	moves : 248326;	time : 6284 us;	 t : 337
+n : 2700;  type : combined;	  compares : 128254;	moves : 141839;	time : 3648 us;	 t : 168
+n : 2700;  type : combined;	  compares : 72390;	moves : 88755;	time : 2374 us;	 t : 84
+n : 2700;  type : combined;	  compares : 46632;	moves : 65807;	time : 1856 us;	 t : 42
+n : 2700;  type : combined;	  compares : 34712;	moves : 56747;	time : 1734 us;	 t : 21
+n : 2700;  type : combined;	  compares : 29626;	moves : 54661;	time : 1860 us;	 t : 10
+n : 2700;  type : combined;	  compares : 27865;	moves : 55952;	time : 2232 us;	 t : 5
+n : 2700;  type : combined;	  compares : 27445;	moves : 58561;	time : 2885 us;	 t : 2
+n : 2800;  type : insertion;	  compares : 1956748;	moves : 1959553;	time : 49197 us
+n : 2800;  type : merge;    	  compares : 28550;	moves : 64608;	time : 3684 us
+n : 2800;  type : combined;	  compares : 1956748;	moves : 1959553;	time : 49269 us;	 t : 2800
+n : 2800;  type : combined;	  compares : 1000376;	moves : 1005990;	time : 25386 us;	 t : 1400
+n : 2800;  type : combined;	  compares : 501033;	moves : 509465;	time : 12800 us;	 t : 700
+n : 2800;  type : combined;	  compares : 252800;	moves : 264047;	time : 6716 us;	 t : 350
+n : 2800;  type : combined;	  compares : 134851;	moves : 148940;	time : 3835 us;	 t : 175
+n : 2800;  type : combined;	  compares : 76501;	moves : 93479;	time : 2510 us;	 t : 87
+n : 2800;  type : combined;	  compares : 48961;	moves : 68848;	time : 1925 us;	 t : 43
+n : 2800;  type : combined;	  compares : 36511;	moves : 59380;	time : 1799 us;	 t : 21
+n : 2800;  type : combined;	  compares : 30852;	moves : 56799;	time : 1925 us;	 t : 10
+n : 2800;  type : combined;	  compares : 28946;	moves : 58035;	time : 2225 us;	 t : 5
+n : 2800;  type : combined;	  compares : 28519;	moves : 60762;	time : 2941 us;	 t : 2
+n : 2900;  type : insertion;	  compares : 2134076;	moves : 2136979;	time : 53168 us
+n : 2900;  type : merge;    	  compares : 29777;	moves : 67208;	time : 3819 us
+n : 2900;  type : combined;	  compares : 2134076;	moves : 2136979;	time : 53823 us;	 t : 2900
+n : 2900;  type : combined;	  compares : 1060302;	moves : 1066112;	time : 26825 us;	 t : 1450
+n : 2900;  type : combined;	  compares : 534407;	moves : 543121;	time : 13311 us;	 t : 725
+n : 2900;  type : combined;	  compares : 274200;	moves : 285833;	time : 7334 us;	 t : 362
+n : 2900;  type : combined;	  compares : 144256;	moves : 158821;	time : 4085 us;	 t : 181
+n : 2900;  type : combined;	  compares : 82510;	moves : 100045;	time : 2648 us;	 t : 90
+n : 2900;  type : combined;	  compares : 52270;	moves : 72827;	time : 2026 us;	 t : 45
+n : 2900;  type : combined;	  compares : 38476;	moves : 62127;	time : 1897 us;	 t : 22
+n : 2900;  type : combined;	  compares : 32287;	moves : 59122;	time : 1982 us;	 t : 11
+n : 2900;  type : combined;	  compares : 30232;	moves : 60333;	time : 2361 us;	 t : 5
+n : 2900;  type : combined;	  compares : 29746;	moves : 63092;	time : 3081 us;	 t : 2
+n : 3000;  type : insertion;	  compares : 2279262;	moves : 2282272;	time : 57216 us
+n : 3000;  type : merge;    	  compares : 30899;	moves : 69808;	time : 3950 us
+n : 3000;  type : combined;	  compares : 2279262;	moves : 2282272;	time : 57460 us;	 t : 3000
+n : 3000;  type : combined;	  compares : 1127166;	moves : 1133186;	time : 28463 us;	 t : 1500
+n : 3000;  type : combined;	  compares : 564625;	moves : 573662;	time : 14406 us;	 t : 750
+n : 3000;  type : combined;	  compares : 294839;	moves : 306894;	time : 7952 us;	 t : 375
+n : 3000;  type : combined;	  compares : 156556;	moves : 171656;	time : 4414 us;	 t : 187
+n : 3000;  type : combined;	  compares : 87927;	moves : 106082;	time : 2801 us;	 t : 93
+n : 3000;  type : combined;	  compares : 55296;	moves : 76593;	time : 2136 us;	 t : 46
+n : 3000;  type : combined;	  compares : 40316;	moves : 64828;	time : 1943 us;	 t : 23
+n : 3000;  type : combined;	  compares : 33760;	moves : 61573;	time : 2063 us;	 t : 11
+n : 3000;  type : combined;	  compares : 31476;	moves : 62634;	time : 2396 us;	 t : 5
+n : 3000;  type : combined;	  compares : 30911;	moves : 65432;	time : 3135 us;	 t : 2
+n : 3100;  type : insertion;	  compares : 2361850;	moves : 2364957;	time : 59452 us
+n : 3100;  type : merge;    	  compares : 32093;	moves : 72408;	time : 4105 us
+n : 3100;  type : combined;	  compares : 2361850;	moves : 2364957;	time : 59535 us;	 t : 3100
+n : 3100;  type : combined;	  compares : 1189720;	moves : 1195933;	time : 30094 us;	 t : 1550
+n : 3100;  type : combined;	  compares : 599207;	moves : 608532;	time : 15358 us;	 t : 775
+n : 3100;  type : combined;	  compares : 300044;	moves : 312492;	time : 7928 us;	 t : 387
+n : 3100;  type : combined;	  compares : 162240;	moves : 177823;	time : 4559 us;	 t : 193
+n : 3100;  type : combined;	  compares : 92502;	moves : 111240;	time : 2941 us;	 t : 96
+n : 3100;  type : combined;	  compares : 57812;	moves : 79793;	time : 2212 us;	 t : 48
+n : 3100;  type : combined;	  compares : 42157;	moves : 67420;	time : 2002 us;	 t : 24
+n : 3100;  type : combined;	  compares : 35224;	moves : 63898;	time : 2098 us;	 t : 12
+n : 3100;  type : combined;	  compares : 32724;	moves : 64895;	time : 2479 us;	 t : 6
+n : 3100;  type : combined;	  compares : 32094;	moves : 67738;	time : 3202 us;	 t : 3
+n : 3200;  type : insertion;	  compares : 2543570;	moves : 2546776;	time : 64116 us
+n : 3200;  type : merge;    	  compares : 33222;	moves : 75008;	time : 4214 us
+n : 3200;  type : combined;	  compares : 2543570;	moves : 2546776;	time : 64020 us;	 t : 3200
+n : 3200;  type : combined;	  compares : 1298473;	moves : 1304886;	time : 32976 us;	 t : 1600
+n : 3200;  type : combined;	  compares : 660333;	moves : 669961;	time : 16902 us;	 t : 800
+n : 3200;  type : combined;	  compares : 334157;	moves : 347005;	time : 8772 us;	 t : 400
+n : 3200;  type : combined;	  compares : 175201;	moves : 191286;	time : 4898 us;	 t : 200
+n : 3200;  type : combined;	  compares : 97331;	moves : 116707;	time : 3089 us;	 t : 100
+n : 3200;  type : combined;	  compares : 61522;	moves : 84232;	time : 2326 us;	 t : 50
+n : 3200;  type : combined;	  compares : 43889;	moves : 69994;	time : 2073 us;	 t : 25
+n : 3200;  type : combined;	  compares : 36571;	moves : 66159;	time : 2160 us;	 t : 12
+n : 3200;  type : combined;	  compares : 33972;	moves : 67182;	time : 2541 us;	 t : 6
+n : 3200;  type : combined;	  compares : 33253;	moves : 70077;	time : 3267 us;	 t : 3
+n : 3300;  type : insertion;	  compares : 2787292;	moves : 2790600;	time : 69967 us
+n : 3300;  type : merge;    	  compares : 34466;	moves : 77608;	time : 4358 us
+n : 3300;  type : combined;	  compares : 2787292;	moves : 2790600;	time : 69837 us;	 t : 3300
+n : 3300;  type : combined;	  compares : 1394945;	moves : 1401559;	time : 34058 us;	 t : 1650
+n : 3300;  type : combined;	  compares : 688622;	moves : 698550;	time : 17097 us;	 t : 825
+n : 3300;  type : combined;	  compares : 350935;	moves : 364203;	time : 8928 us;	 t : 412
+n : 3300;  type : combined;	  compares : 182508;	moves : 199124;	time : 4951 us;	 t : 206
+n : 3300;  type : combined;	  compares : 103344;	moves : 123334;	time : 3150 us;	 t : 103
+n : 3300;  type : combined;	  compares : 64230;	moves : 87635;	time : 2344 us;	 t : 51
+n : 3300;  type : combined;	  compares : 45758;	moves : 72670;	time : 2085 us;	 t : 25
+n : 3300;  type : combined;	  compares : 38161;	moves : 68659;	time : 2165 us;	 t : 12
+n : 3300;  type : combined;	  compares : 35266;	moves : 69457;	time : 2519 us;	 t : 6
+n : 3300;  type : combined;	  compares : 34479;	moves : 72382;	time : 3249 us;	 t : 3
+n : 3400;  type : insertion;	  compares : 2894044;	moves : 2897453;	time : 70830 us
+n : 3400;  type : merge;    	  compares : 35685;	moves : 80208;	time : 4388 us
+n : 3400;  type : combined;	  compares : 2894044;	moves : 2897453;	time : 70695 us;	 t : 3400
+n : 3400;  type : combined;	  compares : 1445975;	moves : 1452789;	time : 35466 us;	 t : 1700
+n : 3400;  type : combined;	  compares : 738895;	moves : 749124;	time : 18270 us;	 t : 850
+n : 3400;  type : combined;	  compares : 371895;	moves : 385543;	time : 9464 us;	 t : 425
+n : 3400;  type : combined;	  compares : 195262;	moves : 212355;	time : 5270 us;	 t : 212
+n : 3400;  type : combined;	  compares : 109285;	moves : 129848;	time : 3311 us;	 t : 106
+n : 3400;  type : combined;	  compares : 68086;	moves : 92173;	time : 2508 us;	 t : 53
+n : 3400;  type : combined;	  compares : 48647;	moves : 76340;	time : 2181 us;	 t : 26
+n : 3400;  type : combined;	  compares : 39862;	moves : 71246;	time : 2250 us;	 t : 13
+n : 3400;  type : combined;	  compares : 36659;	moves : 71848;	time : 2594 us;	 t : 6
+n : 3400;  type : combined;	  compares : 35743;	moves : 74755;	time : 3321 us;	 t : 3
+n : 3500;  type : insertion;	  compares : 3061323;	moves : 3064831;	time : 74610 us
+n : 3500;  type : merge;    	  compares : 36821;	moves : 82808;	time : 4497 us
+n : 3500;  type : combined;	  compares : 3061323;	moves : 3064831;	time : 74798 us;	 t : 3500
+n : 3500;  type : combined;	  compares : 1546982;	moves : 1553999;	time : 37935 us;	 t : 1750
+n : 3500;  type : combined;	  compares : 781941;	moves : 792473;	time : 19386 us;	 t : 875
+n : 3500;  type : combined;	  compares : 395072;	moves : 409135;	time : 10036 us;	 t : 437
+n : 3500;  type : combined;	  compares : 209301;	moves : 226904;	time : 5651 us;	 t : 218
+n : 3500;  type : combined;	  compares : 114606;	moves : 135767;	time : 3459 us;	 t : 109
+n : 3500;  type : combined;	  compares : 70752;	moves : 95516;	time : 2547 us;	 t : 54
+n : 3500;  type : combined;	  compares : 49917;	moves : 78391;	time : 2233 us;	 t : 27
+n : 3500;  type : combined;	  compares : 41195;	moves : 73473;	time : 2309 us;	 t : 13
+n : 3500;  type : combined;	  compares : 37897;	moves : 74120;	time : 2646 us;	 t : 6
+n : 3500;  type : combined;	  compares : 36916;	moves : 77055;	time : 3378 us;	 t : 3
+n : 3600;  type : insertion;	  compares : 3324955;	moves : 3328566;	time : 81055 us
+n : 3600;  type : merge;    	  compares : 38063;	moves : 85408;	time : 4620 us
+n : 3600;  type : combined;	  compares : 3324955;	moves : 3328566;	time : 82295 us;	 t : 3600
+n : 3600;  type : combined;	  compares : 1668111;	moves : 1675330;	time : 41908 us;	 t : 1800
+n : 3600;  type : combined;	  compares : 820202;	moves : 831029;	time : 21102 us;	 t : 900
+n : 3600;  type : combined;	  compares : 414013;	moves : 428468;	time : 10558 us;	 t : 450
+n : 3600;  type : combined;	  compares : 215808;	moves : 233895;	time : 5837 us;	 t : 225
+n : 3600;  type : combined;	  compares : 121573;	moves : 143323;	time : 3808 us;	 t : 112
+n : 3600;  type : combined;	  compares : 74301;	moves : 99765;	time : 2728 us;	 t : 56
+n : 3600;  type : combined;	  compares : 52081;	moves : 81339;	time : 2376 us;	 t : 28
+n : 3600;  type : combined;	  compares : 42959;	moves : 76139;	time : 2459 us;	 t : 14
+n : 3600;  type : combined;	  compares : 39228;	moves : 76435;	time : 2796 us;	 t : 7
+n : 3600;  type : combined;	  compares : 38236;	moves : 79499;	time : 3547 us;	 t : 3
+n : 3700;  type : insertion;	  compares : 3407991;	moves : 3411697;	time : 86027 us
+n : 3700;  type : merge;    	  compares : 39262;	moves : 88008;	time : 4909 us
+n : 3700;  type : combined;	  compares : 3407991;	moves : 3411697;	time : 86112 us;	 t : 3700
+n : 3700;  type : combined;	  compares : 1725266;	moves : 1732674;	time : 43621 us;	 t : 1850
+n : 3700;  type : combined;	  compares : 880635;	moves : 891756;	time : 22461 us;	 t : 925
+n : 3700;  type : combined;	  compares : 453553;	moves : 468388;	time : 11885 us;	 t : 462
+n : 3700;  type : combined;	  compares : 235958;	moves : 254532;	time : 6510 us;	 t : 231
+n : 3700;  type : combined;	  compares : 129147;	moves : 151495;	time : 3968 us;	 t : 115
+n : 3700;  type : combined;	  compares : 78877;	moves : 105045;	time : 2864 us;	 t : 57
+n : 3700;  type : combined;	  compares : 54980;	moves : 85057;	time : 2466 us;	 t : 28
+n : 3700;  type : combined;	  compares : 44514;	moves : 78631;	time : 2495 us;	 t : 14
+n : 3700;  type : combined;	  compares : 40482;	moves : 78726;	time : 2858 us;	 t : 7
+n : 3700;  type : combined;	  compares : 39432;	moves : 81851;	time : 3673 us;	 t : 3
+n : 3800;  type : insertion;	  compares : 3568135;	moves : 3571945;	time : 89891 us
+n : 3800;  type : merge;    	  compares : 40396;	moves : 90608;	time : 5056 us
+n : 3800;  type : combined;	  compares : 3568135;	moves : 3571945;	time : 87740 us;	 t : 3800
+n : 3800;  type : combined;	  compares : 1816026;	moves : 1823637;	time : 44524 us;	 t : 1900
+n : 3800;  type : combined;	  compares : 927968;	moves : 939400;	time : 22980 us;	 t : 950
+n : 3800;  type : combined;	  compares : 469538;	moves : 484799;	time : 11892 us;	 t : 475
+n : 3800;  type : combined;	  compares : 242153;	moves : 261268;	time : 6493 us;	 t : 237
+n : 3800;  type : combined;	  compares : 134421;	moves : 157406;	time : 3980 us;	 t : 118
+n : 3800;  type : combined;	  compares : 82319;	moves : 109254;	time : 2895 us;	 t : 59
+n : 3800;  type : combined;	  compares : 57358;	moves : 88303;	time : 2485 us;	 t : 29
+n : 3800;  type : combined;	  compares : 46086;	moves : 81176;	time : 2497 us;	 t : 14
+n : 3800;  type : combined;	  compares : 41759;	moves : 81086;	time : 2832 us;	 t : 7
+n : 3800;  type : combined;	  compares : 40567;	moves : 84201;	time : 3584 us;	 t : 3
+n : 3900;  type : insertion;	  compares : 3823948;	moves : 3827858;	time : 93527 us
+n : 3900;  type : merge;    	  compares : 41611;	moves : 93208;	time : 5040 us
+n : 3900;  type : combined;	  compares : 3823948;	moves : 3827858;	time : 93813 us;	 t : 3900
+n : 3900;  type : combined;	  compares : 1923868;	moves : 1931691;	time : 47696 us;	 t : 1950
+n : 3900;  type : combined;	  compares : 966498;	moves : 978229;	time : 24202 us;	 t : 975
+n : 3900;  type : combined;	  compares : 488904;	moves : 504564;	time : 12481 us;	 t : 487
+n : 3900;  type : combined;	  compares : 254429;	moves : 274024;	time : 6773 us;	 t : 243
+n : 3900;  type : combined;	  compares : 138027;	moves : 161595;	time : 4103 us;	 t : 121
+n : 3900;  type : combined;	  compares : 84130;	moves : 111729;	time : 3000 us;	 t : 60
+n : 3900;  type : combined;	  compares : 59113;	moves : 90820;	time : 2593 us;	 t : 30
+n : 3900;  type : combined;	  compares : 47775;	moves : 83747;	time : 2650 us;	 t : 15
+n : 3900;  type : combined;	  compares : 43171;	moves : 83478;	time : 2997 us;	 t : 7
+n : 3900;  type : combined;	  compares : 41813;	moves : 86553;	time : 3733 us;	 t : 3
+n : 4000;  type : insertion;	  compares : 3972489;	moves : 3976490;	time : 100589 us
+n : 4000;  type : merge;    	  compares : 42794;	moves : 95808;	time : 5331 us
+n : 4000;  type : combined;	  compares : 3972489;	moves : 3976490;	time : 98254 us;	 t : 4000
+n : 4000;  type : combined;	  compares : 1980194;	moves : 1988206;	time : 50116 us;	 t : 2000
+n : 4000;  type : combined;	  compares : 1005375;	moves : 1017402;	time : 25629 us;	 t : 1000
+n : 4000;  type : combined;	  compares : 524311;	moves : 540366;	time : 13399 us;	 t : 500
+n : 4000;  type : combined;	  compares : 273614;	moves : 293719;	time : 7467 us;	 t : 250
+n : 4000;  type : combined;	  compares : 148564;	moves : 172744;	time : 4530 us;	 t : 125
+n : 4000;  type : combined;	  compares : 89125;	moves : 117444;	time : 3200 us;	 t : 62
+n : 4000;  type : combined;	  compares : 61953;	moves : 94492;	time : 2714 us;	 t : 31
+n : 4000;  type : combined;	  compares : 49474;	moves : 86328;	time : 2652 us;	 t : 15
+n : 4000;  type : combined;	  compares : 44473;	moves : 85791;	time : 2992 us;	 t : 7
+n : 4000;  type : combined;	  compares : 43106;	moves : 88993;	time : 3718 us;	 t : 3
+n : 4100;  type : insertion;	  compares : 4197781;	moves : 4201890;	time : 104422 us
+n : 4100;  type : merge;    	  compares : 44078;	moves : 98416;	time : 5359 us
+n : 4100;  type : combined;	  compares : 4197781;	moves : 4201890;	time : 104564 us;	 t : 4100
+n : 4100;  type : combined;	  compares : 2089620;	moves : 2097839;	time : 51923 us;	 t : 2050
+n : 4100;  type : combined;	  compares : 1053899;	moves : 1066224;	time : 26423 us;	 t : 1025
+n : 4100;  type : combined;	  compares : 544216;	moves : 560671;	time : 13803 us;	 t : 512
+n : 4100;  type : combined;	  compares : 282190;	moves : 302779;	time : 7507 us;	 t : 256
+n : 4100;  type : combined;	  compares : 154803;	moves : 179567;	time : 4739 us;	 t : 128
+n : 4100;  type : combined;	  compares : 92204;	moves : 121174;	time : 3288 us;	 t : 64
+n : 4100;  type : combined;	  compares : 63449;	moves : 96742;	time : 2773 us;	 t : 32
+n : 4100;  type : combined;	  compares : 51079;	moves : 88826;	time : 2711 us;	 t : 16
+n : 4100;  type : combined;	  compares : 45796;	moves : 88061;	time : 3031 us;	 t : 8
+n : 4100;  type : combined;	  compares : 44343;	moves : 91241;	time : 3781 us;	 t : 4
+n : 4100;  type : combined;	  compares : 44344;	moves : 91264;	time : 3762 us;	 t : 2
+n : 4200;  type : insertion;	  compares : 4510174;	moves : 4514381;	time : 113223 us
+n : 4200;  type : merge;    	  compares : 45276;	moves : 101216;	time : 5546 us
+n : 4200;  type : combined;	  compares : 4510174;	moves : 4514381;	time : 111426 us;	 t : 4200
+n : 4200;  type : combined;	  compares : 2228192;	moves : 2236605;	time : 54720 us;	 t : 2100
+n : 4200;  type : combined;	  compares : 1126782;	moves : 1139411;	time : 27777 us;	 t : 1050
+n : 4200;  type : combined;	  compares : 567410;	moves : 584271;	time : 14335 us;	 t : 525
+n : 4200;  type : combined;	  compares : 293977;	moves : 315084;	time : 7794 us;	 t : 262
+n : 4200;  type : combined;	  compares : 160384;	moves : 185784;	time : 4724 us;	 t : 131
+n : 4200;  type : combined;	  compares : 96157;	moves : 125873;	time : 3308 us;	 t : 65
+n : 4200;  type : combined;	  compares : 66208;	moves : 100334;	time : 2793 us;	 t : 32
+n : 4200;  type : combined;	  compares : 52371;	moves : 91031;	time : 2754 us;	 t : 16
+n : 4200;  type : combined;	  compares : 47163;	moves : 90483;	time : 3083 us;	 t : 8
+n : 4200;  type : combined;	  compares : 45566;	moves : 93623;	time : 3827 us;	 t : 4
+n : 4200;  type : combined;	  compares : 45501;	moves : 94137;	time : 3963 us;	 t : 2
+n : 4300;  type : insertion;	  compares : 4625990;	moves : 4630296;	time : 113119 us
+n : 4300;  type : merge;    	  compares : 46530;	moves : 104016;	time : 5603 us
+n : 4300;  type : combined;	  compares : 4625990;	moves : 4630296;	time : 112835 us;	 t : 4300
+n : 4300;  type : combined;	  compares : 2288969;	moves : 2297583;	time : 56137 us;	 t : 2150
+n : 4300;  type : combined;	  compares : 1148233;	moves : 1161159;	time : 28391 us;	 t : 1075
+n : 4300;  type : combined;	  compares : 597913;	moves : 615164;	time : 15089 us;	 t : 537
+n : 4300;  type : combined;	  compares : 310469;	moves : 332058;	time : 8208 us;	 t : 268
+n : 4300;  type : combined;	  compares : 171528;	moves : 197481;	time : 4988 us;	 t : 134
+n : 4300;  type : combined;	  compares : 101738;	moves : 132123;	time : 3466 us;	 t : 67
+n : 4300;  type : combined;	  compares : 68852;	moves : 103743;	time : 2892 us;	 t : 33
+n : 4300;  type : combined;	  compares : 54155;	moves : 93692;	time : 2833 us;	 t : 16
+n : 4300;  type : combined;	  compares : 48541;	moves : 92838;	time : 3167 us;	 t : 8
+n : 4300;  type : combined;	  compares : 46855;	moves : 96025;	time : 4074 us;	 t : 4
+n : 4300;  type : combined;	  compares : 46702;	moves : 97006;	time : 4176 us;	 t : 2
+n : 4400;  type : insertion;	  compares : 4958092;	moves : 4962496;	time : 121818 us
+n : 4400;  type : merge;    	  compares : 47758;	moves : 106816;	time : 6048 us
+n : 4400;  type : combined;	  compares : 4958092;	moves : 4962496;	time : 121637 us;	 t : 4400
+n : 4400;  type : combined;	  compares : 2450675;	moves : 2459486;	time : 61080 us;	 t : 2200
+n : 4400;  type : combined;	  compares : 1236186;	moves : 1249407;	time : 31550 us;	 t : 1100
+n : 4400;  type : combined;	  compares : 628217;	moves : 645862;	time : 16470 us;	 t : 550
+n : 4400;  type : combined;	  compares : 331418;	moves : 353505;	time : 9089 us;	 t : 275
+n : 4400;  type : combined;	  compares : 177846;	moves : 204410;	time : 5311 us;	 t : 137
+n : 4400;  type : combined;	  compares : 104464;	moves : 135544;	time : 3657 us;	 t : 68
+n : 4400;  type : combined;	  compares : 70999;	moves : 106695;	time : 3212 us;	 t : 34
+n : 4400;  type : combined;	  compares : 55813;	moves : 96259;	time : 2990 us;	 t : 17
+n : 4400;  type : combined;	  compares : 50026;	moves : 95315;	time : 3420 us;	 t : 8
+n : 4400;  type : combined;	  compares : 48138;	moves : 98395;	time : 4086 us;	 t : 4
+n : 4400;  type : combined;	  compares : 47935;	moves : 99898;	time : 4561 us;	 t : 2
+n : 4500;  type : insertion;	  compares : 5065433;	moves : 5069942;	time : 129095 us
+n : 4500;  type : merge;    	  compares : 49047;	moves : 109616;	time : 6305 us
+n : 4500;  type : combined;	  compares : 5065433;	moves : 5069942;	time : 128527 us;	 t : 4500
+n : 4500;  type : combined;	  compares : 2539568;	moves : 2548583;	time : 65768 us;	 t : 2250
+n : 4500;  type : combined;	  compares : 1296942;	moves : 1310463;	time : 33417 us;	 t : 1125
+n : 4500;  type : combined;	  compares : 649157;	moves : 667196;	time : 16855 us;	 t : 562
+n : 4500;  type : combined;	  compares : 339142;	moves : 361726;	time : 9518 us;	 t : 281
+n : 4500;  type : combined;	  compares : 184701;	moves : 211851;	time : 5553 us;	 t : 140
+n : 4500;  type : combined;	  compares : 108958;	moves : 140733;	time : 3789 us;	 t : 70
+n : 4500;  type : combined;	  compares : 74105;	moves : 110589;	time : 3169 us;	 t : 35
+n : 4500;  type : combined;	  compares : 57797;	moves : 99113;	time : 3051 us;	 t : 17
+n : 4500;  type : combined;	  compares : 51544;	moves : 97864;	time : 3410 us;	 t : 8
+n : 4500;  type : combined;	  compares : 49383;	moves : 100818;	time : 4125 us;	 t : 4
+n : 4500;  type : combined;	  compares : 49196;	moves : 102848;	time : 4708 us;	 t : 2
+n : 4600;  type : insertion;	  compares : 5382718;	moves : 5387331;	time : 134939 us
+n : 4600;  type : merge;    	  compares : 50258;	moves : 112416;	time : 6043 us
+n : 4600;  type : combined;	  compares : 5382718;	moves : 5387331;	time : 131126 us;	 t : 4600
+n : 4600;  type : combined;	  compares : 2672327;	moves : 2681545;	time : 65463 us;	 t : 2300
+n : 4600;  type : combined;	  compares : 1331235;	moves : 1345066;	time : 32866 us;	 t : 1150
+n : 4600;  type : combined;	  compares : 679054;	moves : 697512;	time : 17100 us;	 t : 575
+n : 4600;  type : combined;	  compares : 346110;	moves : 369207;	time : 9140 us;	 t : 287
+n : 4600;  type : combined;	  compares : 189763;	moves : 217542;	time : 5473 us;	 t : 143
+n : 4600;  type : combined;	  compares : 112399;	moves : 144906;	time : 3786 us;	 t : 71
+n : 4600;  type : combined;	  compares : 75590;	moves : 112901;	time : 3143 us;	 t : 35
+n : 4600;  type : combined;	  compares : 59011;	moves : 101256;	time : 3043 us;	 t : 17
+n : 4600;  type : combined;	  compares : 52483;	moves : 99820;	time : 3345 us;	 t : 8
+n : 4600;  type : combined;	  compares : 50623;	moves : 103194;	time : 4088 us;	 t : 4
+n : 4600;  type : combined;	  compares : 50353;	moves : 105717;	time : 4789 us;	 t : 2
+n : 4700;  type : insertion;	  compares : 5535628;	moves : 5540334;	time : 134404 us
+n : 4700;  type : merge;    	  compares : 51529;	moves : 115216;	time : 6223 us
+n : 4700;  type : combined;	  compares : 5535628;	moves : 5540334;	time : 135243 us;	 t : 4700
+n : 4700;  type : combined;	  compares : 2782674;	moves : 2792092;	time : 67980 us;	 t : 2350
+n : 4700;  type : combined;	  compares : 1400610;	moves : 1414737;	time : 34621 us;	 t : 1175
+n : 4700;  type : combined;	  compares : 709114;	moves : 727972;	time : 17853 us;	 t : 587
+n : 4700;  type : combined;	  compares : 368911;	moves : 392506;	time : 9711 us;	 t : 293
+n : 4700;  type : combined;	  compares : 198826;	moves : 227189;	time : 5723 us;	 t : 146
+n : 4700;  type : combined;	  compares : 117790;	moves : 151000;	time : 3938 us;	 t : 73
+n : 4700;  type : combined;	  compares : 79567;	moves : 117713;	time : 3252 us;	 t : 36
+n : 4700;  type : combined;	  compares : 61586;	moves : 104801;	time : 3140 us;	 t : 18
+n : 4700;  type : combined;	  compares : 54385;	moves : 102797;	time : 3442 us;	 t : 9
+n : 4700;  type : combined;	  compares : 51907;	moves : 105630;	time : 4163 us;	 t : 4
+n : 4700;  type : combined;	  compares : 51651;	moves : 108676;	time : 4998 us;	 t : 2
+n : 4800;  type : insertion;	  compares : 5669582;	moves : 5674393;	time : 138684 us
+n : 4800;  type : merge;    	  compares : 52651;	moves : 118016;	time : 6339 us
+n : 4800;  type : combined;	  compares : 5669582;	moves : 5674393;	time : 138793 us;	 t : 4800
+n : 4800;  type : combined;	  compares : 2841848;	moves : 2851464;	time : 69614 us;	 t : 2400
+n : 4800;  type : combined;	  compares : 1446815;	moves : 1461240;	time : 35845 us;	 t : 1200
+n : 4800;  type : combined;	  compares : 736611;	moves : 755864;	time : 18526 us;	 t : 600
+n : 4800;  type : combined;	  compares : 384802;	moves : 408895;	time : 10129 us;	 t : 300
+n : 4800;  type : combined;	  compares : 208472;	moves : 237452;	time : 5983 us;	 t : 150
+n : 4800;  type : combined;	  compares : 121344;	moves : 155247;	time : 4072 us;	 t : 75
+n : 4800;  type : combined;	  compares : 80904;	moves : 119834;	time : 3317 us;	 t : 37
+n : 4800;  type : combined;	  compares : 62940;	moves : 107036;	time : 3197 us;	 t : 18
+n : 4800;  type : combined;	  compares : 55547;	moves : 104962;	time : 3490 us;	 t : 9
+n : 4800;  type : combined;	  compares : 53202;	moves : 108116;	time : 4256 us;	 t : 4
+n : 4800;  type : combined;	  compares : 52739;	moves : 111575;	time : 5200 us;	 t : 2
+n : 4900;  type : insertion;	  compares : 5946105;	moves : 5951009;	time : 144958 us
+n : 4900;  type : merge;    	  compares : 53997;	moves : 120816;	time : 6534 us
+n : 4900;  type : combined;	  compares : 5946105;	moves : 5951009;	time : 145428 us;	 t : 4900
+n : 4900;  type : combined;	  compares : 3023127;	moves : 3032938;	time : 74196 us;	 t : 2450
+n : 4900;  type : combined;	  compares : 1513941;	moves : 1528667;	time : 37494 us;	 t : 1225
+n : 4900;  type : combined;	  compares : 771839;	moves : 791487;	time : 19378 us;	 t : 612
+n : 4900;  type : combined;	  compares : 394277;	moves : 418874;	time : 10454 us;	 t : 306
+n : 4900;  type : combined;	  compares : 217300;	moves : 246872;	time : 6237 us;	 t : 153
+n : 4900;  type : combined;	  compares : 126554;	moves : 161157;	time : 4205 us;	 t : 76
+n : 4900;  type : combined;	  compares : 84606;	moves : 124349;	time : 3496 us;	 t : 38
+n : 4900;  type : combined;	  compares : 65325;	moves : 110360;	time : 3283 us;	 t : 19
+n : 4900;  type : combined;	  compares : 57107;	moves : 107551;	time : 3566 us;	 t : 9
+n : 4900;  type : combined;	  compares : 54453;	moves : 110407;	time : 4353 us;	 t : 4
+n : 4900;  type : combined;	  compares : 54032;	moves : 114436;	time : 5439 us;	 t : 2
+n : 5000;  type : insertion;	  compares : 6233331;	moves : 6238336;	time : 156834 us
+n : 5000;  type : merge;    	  compares : 55155;	moves : 123616;	time : 6809 us
+n : 5000;  type : combined;	  compares : 6233331;	moves : 6238336;	time : 157566 us;	 t : 5000
+n : 5000;  type : combined;	  compares : 3126052;	moves : 3136065;	time : 79461 us;	 t : 2500
+n : 5000;  type : combined;	  compares : 1572850;	moves : 1587874;	time : 40747 us;	 t : 1250
+n : 5000;  type : combined;	  compares : 798591;	moves : 818636;	time : 20679 us;	 t : 625
+n : 5000;  type : combined;	  compares : 415186;	moves : 440285;	time : 11188 us;	 t : 312
+n : 5000;  type : combined;	  compares : 222947;	moves : 253134;	time : 6744 us;	 t : 156
+n : 5000;  type : combined;	  compares : 132031;	moves : 167354;	time : 4545 us;	 t : 78
+n : 5000;  type : combined;	  compares : 86888;	moves : 127415;	time : 3617 us;	 t : 39
+n : 5000;  type : combined;	  compares : 66842;	moves : 112736;	time : 3427 us;	 t : 19
+n : 5000;  type : combined;	  compares : 58575;	moves : 110054;	time : 3713 us;	 t : 9
+n : 5000;  type : combined;	  compares : 55710;	moves : 112881;	time : 4477 us;	 t : 4
+n : 5000;  type : combined;	  compares : 55234;	moves : 117402;	time : 5804 us;	 t : 2
+n : 5100;  type : insertion;	  compares : 6540536;	moves : 6545648;	time : 167186 us
+n : 5100;  type : merge;    	  compares : 56499;	moves : 126416;	time : 6982 us
+n : 5100;  type : combined;	  compares : 6540536;	moves : 6545648;	time : 166508 us;	 t : 5100
+n : 5100;  type : combined;	  compares : 3211437;	moves : 3221656;	time : 78641 us;	 t : 2550
+n : 5100;  type : combined;	  compares : 1611693;	moves : 1627027;	time : 39740 us;	 t : 1275
+n : 5100;  type : combined;	  compares : 822711;	moves : 843164;	time : 20610 us;	 t : 637
+n : 5100;  type : combined;	  compares : 431653;	moves : 457243;	time : 11276 us;	 t : 318
+n : 5100;  type : combined;	  compares : 232646;	moves : 263424;	time : 6615 us;	 t : 159
+n : 5100;  type : combined;	  compares : 134698;	moves : 170703;	time : 4442 us;	 t : 79
+n : 5100;  type : combined;	  compares : 89672;	moves : 131036;	time : 3599 us;	 t : 39
+n : 5100;  type : combined;	  compares : 68489;	moves : 115334;	time : 3405 us;	 t : 19
+n : 5100;  type : combined;	  compares : 59987;	moves : 112415;	time : 3707 us;	 t : 9
+n : 5100;  type : combined;	  compares : 56979;	moves : 115138;	time : 4425 us;	 t : 4
+n : 5100;  type : combined;	  compares : 56498;	moves : 120221;	time : 5783 us;	 t : 2
+n : 5200;  type : insertion;	  compares : 6808209;	moves : 6813414;	time : 166223 us
+n : 5200;  type : merge;    	  compares : 57825;	moves : 129216;	time : 6895 us
+n : 5200;  type : combined;	  compares : 6808209;	moves : 6813414;	time : 166308 us;	 t : 5200
+n : 5200;  type : combined;	  compares : 3418750;	moves : 3429163;	time : 87032 us;	 t : 2600
+n : 5200;  type : combined;	  compares : 1708074;	moves : 1723706;	time : 43341 us;	 t : 1300
+n : 5200;  type : combined;	  compares : 866386;	moves : 887246;	time : 22671 us;	 t : 650
+n : 5200;  type : combined;	  compares : 449189;	moves : 475295;	time : 11914 us;	 t : 325
+n : 5200;  type : combined;	  compares : 241805;	moves : 273188;	time : 6914 us;	 t : 162
+n : 5200;  type : combined;	  compares : 139341;	moves : 176048;	time : 4578 us;	 t : 81
+n : 5200;  type : combined;	  compares : 92267;	moves : 134425;	time : 3715 us;	 t : 40
+n : 5200;  type : combined;	  compares : 70400;	moves : 118083;	time : 3484 us;	 t : 20
+n : 5200;  type : combined;	  compares : 61460;	moves : 114869;	time : 3825 us;	 t : 10
+n : 5200;  type : combined;	  compares : 58384;	moves : 117641;	time : 4496 us;	 t : 5
+n : 5200;  type : combined;	  compares : 57773;	moves : 122810;	time : 5985 us;	 t : 2
+n : 5300;  type : insertion;	  compares : 7029525;	moves : 7034834;	time : 181195 us
+n : 5300;  type : merge;    	  compares : 58999;	moves : 132016;	time : 7493 us
+n : 5300;  type : combined;	  compares : 7029525;	moves : 7034834;	time : 184896 us;	 t : 5300
+n : 5300;  type : combined;	  compares : 3532506;	moves : 3543123;	time : 92215 us;	 t : 2650
+n : 5300;  type : combined;	  compares : 1787023;	moves : 1802954;	time : 46848 us;	 t : 1325
+n : 5300;  type : combined;	  compares : 907070;	moves : 928341;	time : 24281 us;	 t : 662
+n : 5300;  type : combined;	  compares : 465886;	moves : 492497;	time : 12570 us;	 t : 331
+n : 5300;  type : combined;	  compares : 248567;	moves : 280571;	time : 7289 us;	 t : 165
+n : 5300;  type : combined;	  compares : 144525;	moves : 181964;	time : 4864 us;	 t : 82
+n : 5300;  type : combined;	  compares : 95530;	moves : 138503;	time : 3898 us;	 t : 41
+n : 5300;  type : combined;	  compares : 72163;	moves : 120790;	time : 3666 us;	 t : 20
+n : 5300;  type : combined;	  compares : 62855;	moves : 117294;	time : 3918 us;	 t : 10
+n : 5300;  type : combined;	  compares : 59605;	moves : 120019;	time : 4674 us;	 t : 5
+n : 5300;  type : combined;	  compares : 59005;	moves : 125311;	time : 6163 us;	 t : 2
+n : 5400;  type : insertion;	  compares : 7307766;	moves : 7313169;	time : 186178 us
+n : 5400;  type : merge;    	  compares : 60254;	moves : 134816;	time : 7543 us
+n : 5400;  type : combined;	  compares : 7307766;	moves : 7313169;	time : 188887 us;	 t : 5400
+n : 5400;  type : combined;	  compares : 3705735;	moves : 3716542;	time : 96373 us;	 t : 2700
+n : 5400;  type : combined;	  compares : 1843102;	moves : 1859323;	time : 48307 us;	 t : 1350
+n : 5400;  type : combined;	  compares : 927521;	moves : 949178;	time : 24394 us;	 t : 675
+n : 5400;  type : combined;	  compares : 479937;	moves : 507033;	time : 13023 us;	 t : 337
+n : 5400;  type : combined;	  compares : 258644;	moves : 291211;	time : 7831 us;	 t : 168
+n : 5400;  type : combined;	  compares : 149723;	moves : 187839;	time : 5166 us;	 t : 84
+n : 5400;  type : combined;	  compares : 98292;	moves : 142050;	time : 3991 us;	 t : 42
+n : 5400;  type : combined;	  compares : 74230;	moves : 123721;	time : 3753 us;	 t : 21
+n : 5400;  type : combined;	  compares : 64210;	moves : 119649;	time : 4161 us;	 t : 10
+n : 5400;  type : combined;	  compares : 60984;	moves : 122545;	time : 4887 us;	 t : 5
+n : 5400;  type : combined;	  compares : 60282;	moves : 127853;	time : 6263 us;	 t : 2
+n : 5500;  type : insertion;	  compares : 7603175;	moves : 7608678;	time : 197605 us
+n : 5500;  type : merge;    	  compares : 61473;	moves : 137616;	time : 7841 us
+n : 5500;  type : combined;	  compares : 7603175;	moves : 7608678;	time : 198065 us;	 t : 5500
+n : 5500;  type : combined;	  compares : 3813972;	moves : 3824987;	time : 99264 us;	 t : 2750
+n : 5500;  type : combined;	  compares : 1922904;	moves : 1939432;	time : 50107 us;	 t : 1375
+n : 5500;  type : combined;	  compares : 969686;	moves : 991737;	time : 26186 us;	 t : 687
+n : 5500;  type : combined;	  compares : 491680;	moves : 519276;	time : 13899 us;	 t : 343
+n : 5500;  type : combined;	  compares : 264297;	moves : 297466;	time : 7933 us;	 t : 171
+n : 5500;  type : combined;	  compares : 155119;	moves : 193948;	time : 5471 us;	 t : 85
+n : 5500;  type : combined;	  compares : 101557;	moves : 146134;	time : 4254 us;	 t : 42
+n : 5500;  type : combined;	  compares : 76326;	moves : 126757;	time : 3957 us;	 t : 21
+n : 5500;  type : combined;	  compares : 65831;	moves : 122369;	time : 4156 us;	 t : 10
+n : 5500;  type : combined;	  compares : 62333;	moves : 125029;	time : 4978 us;	 t : 5
+n : 5500;  type : combined;	  compares : 61497;	moves : 130338;	time : 6413 us;	 t : 2
+n : 5600;  type : insertion;	  compares : 7813285;	moves : 7818894;	time : 207418 us
+n : 5600;  type : merge;    	  compares : 62744;	moves : 140416;	time : 8533 us
+n : 5600;  type : combined;	  compares : 7813285;	moves : 7818894;	time : 210718 us;	 t : 5600
+n : 5600;  type : combined;	  compares : 3885298;	moves : 3896517;	time : 99163 us;	 t : 2800
+n : 5600;  type : combined;	  compares : 1945266;	moves : 1962094;	time : 54111 us;	 t : 1400
+n : 5600;  type : combined;	  compares : 999994;	moves : 1022450;	time : 28955 us;	 t : 700
+n : 5600;  type : combined;	  compares : 515774;	moves : 543881;	time : 15326 us;	 t : 350
+n : 5600;  type : combined;	  compares : 277326;	moves : 311118;	time : 8985 us;	 t : 175
+n : 5600;  type : combined;	  compares : 159896;	moves : 199410;	time : 5415 us;	 t : 87
+n : 5600;  type : combined;	  compares : 103309;	moves : 148651;	time : 4393 us;	 t : 43
+n : 5600;  type : combined;	  compares : 78093;	moves : 129438;	time : 4982 us;	 t : 21
+n : 5600;  type : combined;	  compares : 67298;	moves : 124791;	time : 6129 us;	 t : 10
+n : 5600;  type : combined;	  compares : 63594;	moves : 127438;	time : 6947 us;	 t : 5
+n : 5600;  type : combined;	  compares : 62737;	moves : 132834;	time : 6842 us;	 t : 2
+n : 5700;  type : insertion;	  compares : 8162371;	moves : 8168075;	time : 213291 us
+n : 5700;  type : merge;    	  compares : 64118;	moves : 143216;	time : 7627 us
+n : 5700;  type : combined;	  compares : 8162371;	moves : 8168075;	time : 209556 us;	 t : 5700
+n : 5700;  type : combined;	  compares : 4089080;	moves : 4100487;	time : 100633 us;	 t : 2850
+n : 5700;  type : combined;	  compares : 2062952;	moves : 2080074;	time : 53129 us;	 t : 1425
+n : 5700;  type : combined;	  compares : 1038005;	moves : 1060854;	time : 27748 us;	 t : 712
+n : 5700;  type : combined;	  compares : 534280;	moves : 562874;	time : 16919 us;	 t : 356
+n : 5700;  type : combined;	  compares : 286933;	moves : 321315;	time : 10154 us;	 t : 178
+n : 5700;  type : combined;	  compares : 164231;	moves : 204453;	time : 6995 us;	 t : 89
+n : 5700;  type : combined;	  compares : 106839;	moves : 152978;	time : 4549 us;	 t : 44
+n : 5700;  type : combined;	  compares : 80154;	moves : 132347;	time : 4022 us;	 t : 22
+n : 5700;  type : combined;	  compares : 68928;	moves : 127428;	time : 5302 us;	 t : 11
+n : 5700;  type : combined;	  compares : 65048;	moves : 129914;	time : 5189 us;	 t : 5
+n : 5700;  type : combined;	  compares : 64109;	moves : 135329;	time : 7008 us;	 t : 2
+n : 5800;  type : insertion;	  compares : 8349934;	moves : 8355739;	time : 229889 us
+n : 5800;  type : merge;    	  compares : 65291;	moves : 146016;	time : 8714 us
+n : 5800;  type : combined;	  compares : 8349934;	moves : 8355739;	time : 228215 us;	 t : 5800
+n : 5800;  type : combined;	  compares : 4168360;	moves : 4179971;	time : 107158 us;	 t : 2900
+n : 5800;  type : combined;	  compares : 2108492;	moves : 2125917;	time : 54037 us;	 t : 1450
+n : 5800;  type : combined;	  compares : 1064539;	moves : 1087792;	time : 28631 us;	 t : 725
+n : 5800;  type : combined;	  compares : 545270;	moves : 574359;	time : 15330 us;	 t : 362
+n : 5800;  type : combined;	  compares : 297118;	moves : 332103;	time : 8958 us;	 t : 181
+n : 5800;  type : combined;	  compares : 170294;	moves : 211230;	time : 5993 us;	 t : 90
+n : 5800;  type : combined;	  compares : 110727;	moves : 157699;	time : 4694 us;	 t : 45
+n : 5800;  type : combined;	  compares : 82765;	moves : 135938;	time : 4363 us;	 t : 22
+n : 5800;  type : combined;	  compares : 70777;	moves : 130322;	time : 4739 us;	 t : 11
+n : 5800;  type : combined;	  compares : 66471;	moves : 132538;	time : 5336 us;	 t : 5
+n : 5800;  type : combined;	  compares : 65319;	moves : 137879;	time : 7043 us;	 t : 2
+n : 5900;  type : insertion;	  compares : 8826073;	moves : 8831975;	time : 234410 us
+n : 5900;  type : merge;    	  compares : 66538;	moves : 148816;	time : 8386 us
+n : 5900;  type : combined;	  compares : 8826073;	moves : 8831975;	time : 230928 us;	 t : 5900
+n : 5900;  type : combined;	  compares : 4343186;	moves : 4354992;	time : 106911 us;	 t : 2950
+n : 5900;  type : combined;	  compares : 2192222;	moves : 2209938;	time : 54370 us;	 t : 1475
+n : 5900;  type : combined;	  compares : 1116132;	moves : 1139770;	time : 27935 us;	 t : 737
+n : 5900;  type : combined;	  compares : 574356;	moves : 603951;	time : 15047 us;	 t : 368
+n : 5900;  type : combined;	  compares : 308883;	moves : 344454;	time : 8966 us;	 t : 184
+n : 5900;  type : combined;	  compares : 175284;	moves : 216913;	time : 5662 us;	 t : 92
+n : 5900;  type : combined;	  compares : 112864;	moves : 160649;	time : 4699 us;	 t : 46
+n : 5900;  type : combined;	  compares : 84056;	moves : 138126;	time : 4782 us;	 t : 23
+n : 5900;  type : combined;	  compares : 71965;	moves : 132520;	time : 4555 us;	 t : 11
+n : 5900;  type : combined;	  compares : 67493;	moves : 134659;	time : 5054 us;	 t : 5
+n : 5900;  type : combined;	  compares : 66517;	moves : 140312;	time : 8566 us;	 t : 2
+n : 6000;  type : insertion;	  compares : 8886173;	moves : 8892181;	time : 242093 us
+n : 6000;  type : merge;    	  compares : 67780;	moves : 151616;	time : 9796 us
+n : 6000;  type : combined;	  compares : 8886173;	moves : 8892181;	time : 243276 us;	 t : 6000
+n : 6000;  type : combined;	  compares : 4493365;	moves : 4505380;	time : 119382 us;	 t : 3000
+n : 6000;  type : combined;	  compares : 2264485;	moves : 2282512;	time : 61174 us;	 t : 1500
+n : 6000;  type : combined;	  compares : 1150278;	moves : 1174322;	time : 30871 us;	 t : 750
+n : 6000;  type : combined;	  compares : 594493;	moves : 624581;	time : 16805 us;	 t : 375
+n : 6000;  type : combined;	  compares : 318831;	moves : 355003;	time : 9487 us;	 t : 187
+n : 6000;  type : combined;	  compares : 179909;	moves : 222207;	time : 6100 us;	 t : 93
+n : 6000;  type : combined;	  compares : 115125;	moves : 163683;	time : 4742 us;	 t : 46
+n : 6000;  type : combined;	  compares : 86233;	moves : 141191;	time : 4362 us;	 t : 23
+n : 6000;  type : combined;	  compares : 73637;	moves : 135183;	time : 4772 us;	 t : 11
+n : 6000;  type : combined;	  compares : 68967;	moves : 137307;	time : 5672 us;	 t : 5
+n : 6000;  type : combined;	  compares : 67767;	moves : 142852;	time : 7277 us;	 t : 2
+n : 6100;  type : insertion;	  compares : 9283765;	moves : 9289875;	time : 261424 us
+n : 6100;  type : merge;    	  compares : 69099;	moves : 154416;	time : 8493 us
+n : 6100;  type : combined;	  compares : 9283765;	moves : 9289875;	time : 238214 us;	 t : 6100
+n : 6100;  type : combined;	  compares : 4609993;	moves : 4622209;	time : 119617 us;	 t : 3050
+n : 6100;  type : combined;	  compares : 2329836;	moves : 2348167;	time : 59435 us;	 t : 1525
+n : 6100;  type : combined;	  compares : 1176830;	moves : 1201295;	time : 29989 us;	 t : 762
+n : 6100;  type : combined;	  compares : 605606;	moves : 636216;	time : 16076 us;	 t : 381
+n : 6100;  type : combined;	  compares : 326203;	moves : 362993;	time : 9541 us;	 t : 190
+n : 6100;  type : combined;	  compares : 186227;	moves : 229271;	time : 6228 us;	 t : 95
+n : 6100;  type : combined;	  compares : 119846;	moves : 169207;	time : 4769 us;	 t : 47
+n : 6100;  type : combined;	  compares : 88659;	moves : 144477;	time : 4459 us;	 t : 23
+n : 6100;  type : combined;	  compares : 75300;	moves : 137805;	time : 4867 us;	 t : 11
+n : 6100;  type : combined;	  compares : 70276;	moves : 139653;	time : 5404 us;	 t : 5
+n : 6100;  type : combined;	  compares : 69068;	moves : 145315;	time : 8544 us;	 t : 2
+n : 6200;  type : insertion;	  compares : 9666636;	moves : 9672839;	time : 258902 us
+n : 6200;  type : merge;    	  compares : 70424;	moves : 157216;	time : 8374 us
+n : 6200;  type : combined;	  compares : 9666636;	moves : 9672839;	time : 254641 us;	 t : 6200
+n : 6200;  type : combined;	  compares : 4835278;	moves : 4847686;	time : 122402 us;	 t : 3100
+n : 6200;  type : combined;	  compares : 2406559;	moves : 2425182;	time : 59251 us;	 t : 1550
+n : 6200;  type : combined;	  compares : 1218035;	moves : 1242880;	time : 31629 us;	 t : 775
+n : 6200;  type : combined;	  compares : 628392;	moves : 659487;	time : 16290 us;	 t : 387
+n : 6200;  type : combined;	  compares : 336152;	moves : 373523;	time : 9325 us;	 t : 193
+n : 6200;  type : combined;	  compares : 195376;	moves : 239099;	time : 6176 us;	 t : 96
+n : 6200;  type : combined;	  compares : 122949;	moves : 173091;	time : 4675 us;	 t : 48
+n : 6200;  type : combined;	  compares : 90539;	moves : 147253;	time : 4233 us;	 t : 24
+n : 6200;  type : combined;	  compares : 76548;	moves : 140062;	time : 4449 us;	 t : 12
+n : 6200;  type : combined;	  compares : 71747;	moves : 142241;	time : 5142 us;	 t : 6
+n : 6200;  type : combined;	  compares : 70441;	moves : 147862;	time : 6546 us;	 t : 3
+n : 6300;  type : insertion;	  compares : 9845550;	moves : 9851856;	time : 240400 us
+n : 6300;  type : merge;    	  compares : 71721;	moves : 160016;	time : 8474 us
+n : 6300;  type : combined;	  compares : 9845550;	moves : 9851856;	time : 245784 us;	 t : 6300
+n : 6300;  type : combined;	  compares : 4981928;	moves : 4994545;	time : 136410 us;	 t : 3150
+n : 6300;  type : combined;	  compares : 2475063;	moves : 2493989;	time : 67976 us;	 t : 1575
+n : 6300;  type : combined;	  compares : 1258905;	moves : 1284157;	time : 35232 us;	 t : 787
+n : 6300;  type : combined;	  compares : 653717;	moves : 685305;	time : 19098 us;	 t : 393
+n : 6300;  type : combined;	  compares : 344083;	moves : 382055;	time : 9625 us;	 t : 196
+n : 6300;  type : combined;	  compares : 197144;	moves : 241555;	time : 6478 us;	 t : 98
+n : 6300;  type : combined;	  compares : 125074;	moves : 176031;	time : 4776 us;	 t : 49
+n : 6300;  type : combined;	  compares : 92138;	moves : 149789;	time : 4322 us;	 t : 24
+n : 6300;  type : combined;	  compares : 78401;	moves : 142949;	time : 4640 us;	 t : 12
+n : 6300;  type : combined;	  compares : 72901;	moves : 144511;	time : 5294 us;	 t : 6
+n : 6300;  type : combined;	  compares : 71686;	moves : 150336;	time : 6813 us;	 t : 3
+n : 6400;  type : insertion;	  compares : 10371448;	moves : 10377855;	time : 273526 us
+n : 6400;  type : merge;    	  compares : 72902;	moves : 162816;	time : 9455 us
+n : 6400;  type : combined;	  compares : 10371448;	moves : 10377855;	time : 269307 us;	 t : 6400
+n : 6400;  type : combined;	  compares : 5192570;	moves : 5205383;	time : 136483 us;	 t : 3200
+n : 6400;  type : combined;	  compares : 2576430;	moves : 2595665;	time : 69884 us;	 t : 1600
+n : 6400;  type : combined;	  compares : 1315424;	moves : 1341091;	time : 36837 us;	 t : 800
+n : 6400;  type : combined;	  compares : 669348;	moves : 701458;	time : 19699 us;	 t : 400
+n : 6400;  type : combined;	  compares : 358408;	moves : 396995;	time : 10888 us;	 t : 200
+n : 6400;  type : combined;	  compares : 204649;	moves : 249792;	time : 6507 us;	 t : 100
+n : 6400;  type : combined;	  compares : 129055;	moves : 180821;	time : 5236 us;	 t : 50
+n : 6400;  type : combined;	  compares : 94972;	moves : 153527;	time : 4642 us;	 t : 25
+n : 6400;  type : combined;	  compares : 79838;	moves : 145421;	time : 4917 us;	 t : 12
+n : 6400;  type : combined;	  compares : 74426;	moves : 147193;	time : 5970 us;	 t : 6
+n : 6400;  type : combined;	  compares : 73032;	moves : 153002;	time : 7427 us;	 t : 3
+n : 6500;  type : insertion;	  compares : 10513231;	moves : 10519745;	time : 286410 us
+n : 6500;  type : merge;    	  compares : 74298;	moves : 165616;	time : 9793 us
+n : 6500;  type : combined;	  compares : 10513231;	moves : 10519745;	time : 279104 us;	 t : 6500
+n : 6500;  type : combined;	  compares : 5298435;	moves : 5311459;	time : 142776 us;	 t : 3250
+n : 6500;  type : combined;	  compares : 2647392;	moves : 2666931;	time : 73869 us;	 t : 1625
+n : 6500;  type : combined;	  compares : 1329800;	moves : 1355859;	time : 33768 us;	 t : 812
+n : 6500;  type : combined;	  compares : 683497;	moves : 716087;	time : 19491 us;	 t : 406
+n : 6500;  type : combined;	  compares : 368883;	moves : 408063;	time : 11533 us;	 t : 203
+n : 6500;  type : combined;	  compares : 210541;	moves : 256352;	time : 7627 us;	 t : 101
+n : 6500;  type : combined;	  compares : 132597;	moves : 185166;	time : 5670 us;	 t : 50
+n : 6500;  type : combined;	  compares : 96991;	moves : 156443;	time : 5199 us;	 t : 25
+n : 6500;  type : combined;	  compares : 81521;	moves : 148121;	time : 5266 us;	 t : 12
+n : 6500;  type : combined;	  compares : 75852;	moves : 149745;	time : 6135 us;	 t : 6
+n : 6500;  type : combined;	  compares : 74368;	moves : 155526;	time : 8013 us;	 t : 3
+n : 6600;  type : insertion;	  compares : 10747245;	moves : 10753850;	time : 297766 us
+n : 6600;  type : merge;    	  compares : 75481;	moves : 168416;	time : 9741 us
+n : 6600;  type : combined;	  compares : 10747245;	moves : 10753850;	time : 268558 us;	 t : 6600
+n : 6600;  type : combined;	  compares : 5347225;	moves : 5360439;	time : 130849 us;	 t : 3300
+n : 6600;  type : combined;	  compares : 2731657;	moves : 2751486;	time : 67170 us;	 t : 1650
+n : 6600;  type : combined;	  compares : 1384913;	moves : 1411372;	time : 34609 us;	 t : 825
+n : 6600;  type : combined;	  compares : 711353;	moves : 744464;	time : 18322 us;	 t : 412
+n : 6600;  type : combined;	  compares : 381163;	moves : 420970;	time : 10490 us;	 t : 206
+n : 6600;  type : combined;	  compares : 213749;	moves : 260318;	time : 6713 us;	 t : 103
+n : 6600;  type : combined;	  compares : 135742;	moves : 189144;	time : 5074 us;	 t : 51
+n : 6600;  type : combined;	  compares : 99625;	moves : 160035;	time : 4593 us;	 t : 25
+n : 6600;  type : combined;	  compares : 83449;	moves : 151107;	time : 4697 us;	 t : 12
+n : 6600;  type : combined;	  compares : 77299;	moves : 152367;	time : 5414 us;	 t : 6
+n : 6600;  type : combined;	  compares : 75646;	moves : 158126;	time : 6859 us;	 t : 3
+n : 6700;  type : insertion;	  compares : 11344105;	moves : 11350813;	time : 286453 us
+n : 6700;  type : merge;    	  compares : 76846;	moves : 171216;	time : 9652 us
+n : 6700;  type : combined;	  compares : 11344105;	moves : 11350813;	time : 299408 us;	 t : 6700
+n : 6700;  type : combined;	  compares : 5599779;	moves : 5613190;	time : 149908 us;	 t : 3350
+n : 6700;  type : combined;	  compares : 2817960;	moves : 2838080;	time : 75177 us;	 t : 1675
+n : 6700;  type : combined;	  compares : 1410072;	moves : 1436906;	time : 38159 us;	 t : 837
+n : 6700;  type : combined;	  compares : 722356;	moves : 755935;	time : 20045 us;	 t : 418
+n : 6700;  type : combined;	  compares : 386240;	moves : 426601;	time : 11384 us;	 t : 209
+n : 6700;  type : combined;	  compares : 219109;	moves : 266326;	time : 7244 us;	 t : 104
+n : 6700;  type : combined;	  compares : 137575;	moves : 191698;	time : 5632 us;	 t : 52
+n : 6700;  type : combined;	  compares : 100618;	moves : 161842;	time : 4969 us;	 t : 26
+n : 6700;  type : combined;	  compares : 84373;	moves : 152935;	time : 5058 us;	 t : 13
+n : 6700;  type : combined;	  compares : 78506;	moves : 154603;	time : 5827 us;	 t : 6
+n : 6700;  type : combined;	  compares : 76954;	moves : 160517;	time : 7317 us;	 t : 3
+n : 6800;  type : insertion;	  compares : 11641261;	moves : 11648065;	time : 284386 us
+n : 6800;  type : merge;    	  compares : 78065;	moves : 174016;	time : 9155 us
+n : 6800;  type : combined;	  compares : 11641261;	moves : 11648065;	time : 284115 us;	 t : 6800
+n : 6800;  type : combined;	  compares : 5858464;	moves : 5872078;	time : 143445 us;	 t : 3400
+n : 6800;  type : combined;	  compares : 2950103;	moves : 2970532;	time : 72562 us;	 t : 1700
+n : 6800;  type : combined;	  compares : 1477437;	moves : 1504680;	time : 36797 us;	 t : 850
+n : 6800;  type : combined;	  compares : 760298;	moves : 794397;	time : 19522 us;	 t : 425
+n : 6800;  type : combined;	  compares : 402769;	moves : 443764;	time : 11103 us;	 t : 212
+n : 6800;  type : combined;	  compares : 225358;	moves : 273301;	time : 7038 us;	 t : 106
+n : 6800;  type : combined;	  compares : 143837;	moves : 198848;	time : 5331 us;	 t : 53
+n : 6800;  type : combined;	  compares : 103742;	moves : 166003;	time : 4727 us;	 t : 26
+n : 6800;  type : combined;	  compares : 86031;	moves : 155672;	time : 4826 us;	 t : 13
+n : 6800;  type : combined;	  compares : 79956;	moves : 157277;	time : 5541 us;	 t : 6
+n : 6800;  type : combined;	  compares : 78249;	moves : 163237;	time : 6956 us;	 t : 3
+n : 6900;  type : insertion;	  compares : 11976586;	moves : 11983491;	time : 292367 us
+n : 6900;  type : merge;    	  compares : 79419;	moves : 176816;	time : 9487 us
+n : 6900;  type : combined;	  compares : 11976586;	moves : 11983491;	time : 301112 us;	 t : 6900
+n : 6900;  type : combined;	  compares : 5980132;	moves : 5993944;	time : 154051 us;	 t : 3450
+n : 6900;  type : combined;	  compares : 3000810;	moves : 3021543;	time : 77649 us;	 t : 1725
+n : 6900;  type : combined;	  compares : 1512930;	moves : 1540576;	time : 39764 us;	 t : 862
+n : 6900;  type : combined;	  compares : 779660;	moves : 814264;	time : 21247 us;	 t : 431
+n : 6900;  type : combined;	  compares : 409413;	moves : 451003;	time : 11690 us;	 t : 215
+n : 6900;  type : combined;	  compares : 230476;	moves : 279116;	time : 7586 us;	 t : 107
+n : 6900;  type : combined;	  compares : 144963;	moves : 200757;	time : 5568 us;	 t : 53
+n : 6900;  type : combined;	  compares : 105249;	moves : 168355;	time : 4960 us;	 t : 26
+n : 6900;  type : combined;	  compares : 88016;	moves : 158620;	time : 5158 us;	 t : 13
+n : 6900;  type : combined;	  compares : 81289;	moves : 159607;	time : 5954 us;	 t : 6
+n : 6900;  type : combined;	  compares : 79633;	moves : 165763;	time : 7271 us;	 t : 3
+n : 7000;  type : insertion;	  compares : 12126714;	moves : 12133719;	time : 311678 us
+n : 7000;  type : merge;    	  compares : 80697;	moves : 179616;	time : 9984 us
+n : 7000;  type : combined;	  compares : 12126714;	moves : 12133719;	time : 311982 us;	 t : 7000
+n : 7000;  type : combined;	  compares : 6077762;	moves : 6091773;	time : 157070 us;	 t : 3500
+n : 7000;  type : combined;	  compares : 3110320;	moves : 3131342;	time : 81167 us;	 t : 1750
+n : 7000;  type : combined;	  compares : 1568513;	moves : 1596569;	time : 41351 us;	 t : 875
+n : 7000;  type : combined;	  compares : 794738;	moves : 829847;	time : 21555 us;	 t : 437
+n : 7000;  type : combined;	  compares : 417751;	moves : 459955;	time : 12190 us;	 t : 218
+n : 7000;  type : combined;	  compares : 239188;	moves : 288548;	time : 7741 us;	 t : 109
+n : 7000;  type : combined;	  compares : 148505;	moves : 205123;	time : 5748 us;	 t : 54
+n : 7000;  type : combined;	  compares : 107268;	moves : 171292;	time : 5250 us;	 t : 27
+n : 7000;  type : combined;	  compares : 89506;	moves : 161209;	time : 5293 us;	 t : 13
+n : 7000;  type : combined;	  compares : 82706;	moves : 162258;	time : 6048 us;	 t : 6
+n : 7000;  type : combined;	  compares : 80958;	moves : 168358;	time : 7461 us;	 t : 3
+n : 7100;  type : insertion;	  compares : 12634303;	moves : 12641409;	time : 323742 us
+n : 7100;  type : merge;    	  compares : 81978;	moves : 182416;	time : 10125 us
+n : 7100;  type : combined;	  compares : 12634303;	moves : 12641409;	time : 330425 us;	 t : 7100
+n : 7100;  type : combined;	  compares : 6307626;	moves : 6321837;	time : 164893 us;	 t : 3550
+n : 7100;  type : combined;	  compares : 3174941;	moves : 3196267;	time : 83907 us;	 t : 1775
+n : 7100;  type : combined;	  compares : 1600281;	moves : 1628735;	time : 43308 us;	 t : 887
+n : 7100;  type : combined;	  compares : 815906;	moves : 851511;	time : 22552 us;	 t : 443
+n : 7100;  type : combined;	  compares : 433862;	moves : 476648;	time : 12683 us;	 t : 221
+n : 7100;  type : combined;	  compares : 243380;	moves : 293409;	time : 8011 us;	 t : 110
+n : 7100;  type : combined;	  compares : 152202;	moves : 209562;	time : 5944 us;	 t : 55
+n : 7100;  type : combined;	  compares : 110080;	moves : 174942;	time : 5268 us;	 t : 27
+n : 7100;  type : combined;	  compares : 90959;	moves : 163487;	time : 5351 us;	 t : 13
+n : 7100;  type : combined;	  compares : 84096;	moves : 164588;	time : 6114 us;	 t : 6
+n : 7100;  type : combined;	  compares : 82217;	moves : 170757;	time : 7745 us;	 t : 3
+n : 7200;  type : insertion;	  compares : 12929356;	moves : 12936563;	time : 339215 us
+n : 7200;  type : merge;    	  compares : 83203;	moves : 185216;	time : 10361 us
+n : 7200;  type : combined;	  compares : 12929356;	moves : 12936563;	time : 319246 us;	 t : 7200
+n : 7200;  type : combined;	  compares : 6469696;	moves : 6484110;	time : 158117 us;	 t : 3600
+n : 7200;  type : combined;	  compares : 3257936;	moves : 3279567;	time : 80116 us;	 t : 1800
+n : 7200;  type : combined;	  compares : 1633920;	moves : 1662785;	time : 40631 us;	 t : 900
+n : 7200;  type : combined;	  compares : 836895;	moves : 873011;	time : 21446 us;	 t : 450
+n : 7200;  type : combined;	  compares : 444579;	moves : 487986;	time : 12154 us;	 t : 225
+n : 7200;  type : combined;	  compares : 250955;	moves : 301701;	time : 7705 us;	 t : 112
+n : 7200;  type : combined;	  compares : 156136;	moves : 214341;	time : 5736 us;	 t : 56
+n : 7200;  type : combined;	  compares : 112318;	moves : 178122;	time : 5050 us;	 t : 28
+n : 7200;  type : combined;	  compares : 92966;	moves : 166576;	time : 5129 us;	 t : 14
+n : 7200;  type : combined;	  compares : 85661;	moves : 167402;	time : 5876 us;	 t : 7
+n : 7200;  type : combined;	  compares : 83495;	moves : 173411;	time : 7275 us;	 t : 3
+n : 7300;  type : insertion;	  compares : 13411172;	moves : 13418486;	time : 326994 us
+n : 7300;  type : merge;    	  compares : 84527;	moves : 188016;	time : 10148 us
+n : 7300;  type : combined;	  compares : 13411172;	moves : 13418486;	time : 346804 us;	 t : 7300
+n : 7300;  type : combined;	  compares : 6695598;	moves : 6710214;	time : 175309 us;	 t : 3650
+n : 7300;  type : combined;	  compares : 3357435;	moves : 3379361;	time : 88199 us;	 t : 1825
+n : 7300;  type : combined;	  compares : 1689324;	moves : 1718588;	time : 45310 us;	 t : 912
+n : 7300;  type : combined;	  compares : 866321;	moves : 902929;	time : 23599 us;	 t : 456
+n : 7300;  type : combined;	  compares : 452510;	moves : 496500;	time : 13186 us;	 t : 228
+n : 7300;  type : combined;	  compares : 256172;	moves : 307605;	time : 8353 us;	 t : 114
+n : 7300;  type : combined;	  compares : 159992;	moves : 218952;	time : 6220 us;	 t : 57
+n : 7300;  type : combined;	  compares : 114401;	moves : 181081;	time : 5429 us;	 t : 28
+n : 7300;  type : combined;	  compares : 94294;	moves : 168901;	time : 5499 us;	 t : 14
+n : 7300;  type : combined;	  compares : 86856;	moves : 169635;	time : 6252 us;	 t : 7
+n : 7300;  type : combined;	  compares : 84806;	moves : 175820;	time : 7788 us;	 t : 3
+n : 7400;  type : insertion;	  compares : 13728202;	moves : 13735614;	time : 359905 us
+n : 7400;  type : merge;    	  compares : 85817;	moves : 190816;	time : 10615 us
+n : 7400;  type : combined;	  compares : 13728202;	moves : 13735614;	time : 358525 us;	 t : 7400
+n : 7400;  type : combined;	  compares : 6869208;	moves : 6884032;	time : 179596 us;	 t : 3700
+n : 7400;  type : combined;	  compares : 3411871;	moves : 3434101;	time : 89125 us;	 t : 1850
+n : 7400;  type : combined;	  compares : 1708082;	moves : 1737735;	time : 45191 us;	 t : 925
+n : 7400;  type : combined;	  compares : 886706;	moves : 923814;	time : 24264 us;	 t : 462
+n : 7400;  type : combined;	  compares : 468462;	moves : 513065;	time : 13893 us;	 t : 231
+n : 7400;  type : combined;	  compares : 262669;	moves : 314801;	time : 8653 us;	 t : 115
+n : 7400;  type : combined;	  compares : 163733;	moves : 223534;	time : 6303 us;	 t : 57
+n : 7400;  type : combined;	  compares : 117187;	moves : 184809;	time : 5523 us;	 t : 28
+n : 7400;  type : combined;	  compares : 96437;	moves : 172094;	time : 5592 us;	 t : 14
+n : 7400;  type : combined;	  compares : 88382;	moves : 172358;	time : 6310 us;	 t : 7
+n : 7400;  type : combined;	  compares : 86188;	moves : 178508;	time : 7852 us;	 t : 3
+n : 7500;  type : insertion;	  compares : 14075622;	moves : 14083129;	time : 366668 us
+n : 7500;  type : merge;    	  compares : 87189;	moves : 193616;	time : 10747 us
+n : 7500;  type : combined;	  compares : 14075622;	moves : 14083129;	time : 365676 us;	 t : 7500
+n : 7500;  type : combined;	  compares : 6972337;	moves : 6987356;	time : 170503 us;	 t : 3750
+n : 7500;  type : combined;	  compares : 3515968;	moves : 3538503;	time : 86337 us;	 t : 1875
+n : 7500;  type : combined;	  compares : 1788156;	moves : 1818207;	time : 44476 us;	 t : 937
+n : 7500;  type : combined;	  compares : 906550;	moves : 944132;	time : 23197 us;	 t : 468
+n : 7500;  type : combined;	  compares : 477885;	moves : 523047;	time : 13025 us;	 t : 234
+n : 7500;  type : combined;	  compares : 269111;	moves : 321942;	time : 8248 us;	 t : 117
+n : 7500;  type : combined;	  compares : 167738;	moves : 228324;	time : 6067 us;	 t : 58
+n : 7500;  type : combined;	  compares : 119713;	moves : 188234;	time : 5307 us;	 t : 29
+n : 7500;  type : combined;	  compares : 98219;	moves : 174843;	time : 5313 us;	 t : 14
+n : 7500;  type : combined;	  compares : 89936;	moves : 174935;	time : 6004 us;	 t : 7
+n : 7500;  type : combined;	  compares : 87586;	moves : 181057;	time : 7467 us;	 t : 3
+n : 7600;  type : insertion;	  compares : 14385452;	moves : 14393058;	time : 350945 us
+n : 7600;  type : merge;    	  compares : 88575;	moves : 196416;	time : 10363 us
+n : 7600;  type : combined;	  compares : 14385452;	moves : 14393058;	time : 350580 us;	 t : 7600
+n : 7600;  type : combined;	  compares : 7185443;	moves : 7200663;	time : 175380 us;	 t : 3800
+n : 7600;  type : combined;	  compares : 3621864;	moves : 3644693;	time : 88988 us;	 t : 1900
+n : 7600;  type : combined;	  compares : 1835457;	moves : 1865912;	time : 45683 us;	 t : 950
+n : 7600;  type : combined;	  compares : 943218;	moves : 981325;	time : 24027 us;	 t : 475
+n : 7600;  type : combined;	  compares : 494430;	moves : 540226;	time : 13417 us;	 t : 237
+n : 7600;  type : combined;	  compares : 278607;	moves : 332153;	time : 8464 us;	 t : 118
+n : 7600;  type : combined;	  compares : 172131;	moves : 233535;	time : 6200 us;	 t : 59
+n : 7600;  type : combined;	  compares : 121318;	moves : 190704;	time : 5374 us;	 t : 29
+n : 7600;  type : combined;	  compares : 99604;	moves : 177191;	time : 5389 us;	 t : 14
+n : 7600;  type : combined;	  compares : 91238;	moves : 177251;	time : 6097 us;	 t : 7
+n : 7600;  type : combined;	  compares : 88945;	moves : 183534;	time : 7551 us;	 t : 3
+n : 7700;  type : insertion;	  compares : 14877511;	moves : 14885225;	time : 363078 us
+n : 7700;  type : merge;    	  compares : 89758;	moves : 199216;	time : 10398 us
+n : 7700;  type : combined;	  compares : 14877511;	moves : 14885225;	time : 373343 us;	 t : 7700
+n : 7700;  type : combined;	  compares : 7485906;	moves : 7501327;	time : 194555 us;	 t : 3850
+n : 7700;  type : combined;	  compares : 3758645;	moves : 3781779;	time : 93605 us;	 t : 1925
+n : 7700;  type : combined;	  compares : 1884747;	moves : 1915608;	time : 46764 us;	 t : 962
+n : 7700;  type : combined;	  compares : 957155;	moves : 995766;	time : 24510 us;	 t : 481
+n : 7700;  type : combined;	  compares : 501772;	moves : 548162;	time : 13620 us;	 t : 240
+n : 7700;  type : combined;	  compares : 282160;	moves : 336390;	time : 8580 us;	 t : 120
+n : 7700;  type : combined;	  compares : 174772;	moves : 236944;	time : 6281 us;	 t : 60
+n : 7700;  type : combined;	  compares : 123602;	moves : 193867;	time : 5442 us;	 t : 30
+n : 7700;  type : combined;	  compares : 101419;	moves : 180047;	time : 5558 us;	 t : 15
+n : 7700;  type : combined;	  compares : 92711;	moves : 179936;	time : 6161 us;	 t : 7
+n : 7700;  type : combined;	  compares : 90142;	moves : 186130;	time : 7649 us;	 t : 3
+n : 7800;  type : insertion;	  compares : 15391906;	moves : 15399721;	time : 375611 us
+n : 7800;  type : merge;    	  compares : 91045;	moves : 202016;	time : 10529 us
+n : 7800;  type : combined;	  compares : 15391906;	moves : 15399721;	time : 377258 us;	 t : 7800
+n : 7800;  type : combined;	  compares : 7649636;	moves : 7665256;	time : 199253 us;	 t : 3900
+n : 7800;  type : combined;	  compares : 3827603;	moves : 3851035;	time : 100057 us;	 t : 1950
+n : 7800;  type : combined;	  compares : 1937113;	moves : 1968365;	time : 51714 us;	 t : 975
+n : 7800;  type : combined;	  compares : 994612;	moves : 1033705;	time : 27018 us;	 t : 487
+n : 7800;  type : combined;	  compares : 520085;	moves : 567064;	time : 15012 us;	 t : 243
+n : 7800;  type : combined;	  compares : 289959;	moves : 344881;	time : 9349 us;	 t : 121
+n : 7800;  type : combined;	  compares : 176720;	moves : 239688;	time : 6751 us;	 t : 60
+n : 7800;  type : combined;	  compares : 125434;	moves : 196640;	time : 5892 us;	 t : 30
+n : 7800;  type : combined;	  compares : 102873;	moves : 182497;	time : 5873 us;	 t : 15
+n : 7800;  type : combined;	  compares : 94158;	moves : 182498;	time : 6741 us;	 t : 7
+n : 7800;  type : combined;	  compares : 91474;	moves : 188647;	time : 8479 us;	 t : 3
+n : 7900;  type : insertion;	  compares : 15582534;	moves : 15590444;	time : 407273 us
+n : 7900;  type : merge;    	  compares : 92342;	moves : 204816;	time : 11385 us
+n : 7900;  type : combined;	  compares : 15582534;	moves : 15590444;	time : 389352 us;	 t : 7900
+n : 7900;  type : combined;	  compares : 7795929;	moves : 7811747;	time : 190585 us;	 t : 3950
+n : 7900;  type : combined;	  compares : 3955081;	moves : 3978815;	time : 96848 us;	 t : 1975
+n : 7900;  type : combined;	  compares : 1986337;	moves : 2018003;	time : 49337 us;	 t : 987
+n : 7900;  type : combined;	  compares : 1003539;	moves : 1043142;	time : 25639 us;	 t : 493
+n : 7900;  type : combined;	  compares : 527007;	moves : 574594;	time : 14297 us;	 t : 246
+n : 7900;  type : combined;	  compares : 293968;	moves : 349608;	time : 8940 us;	 t : 123
+n : 7900;  type : combined;	  compares : 181199;	moves : 245028;	time : 6504 us;	 t : 61
+n : 7900;  type : combined;	  compares : 128038;	moves : 200192;	time : 5616 us;	 t : 30
+n : 7900;  type : combined;	  compares : 104643;	moves : 185323;	time : 5628 us;	 t : 15
+n : 7900;  type : combined;	  compares : 95602;	moves : 185044;	time : 6321 us;	 t : 7
+n : 7900;  type : combined;	  compares : 92768;	moves : 191144;	time : 7749 us;	 t : 3
+n : 8000;  type : insertion;	  compares : 16124030;	moves : 16132041;	time : 393492 us
+n : 8000;  type : merge;    	  compares : 93606;	moves : 207616;	time : 10828 us
+n : 8000;  type : combined;	  compares : 16124030;	moves : 16132041;	time : 392869 us;	 t : 8000
+n : 8000;  type : combined;	  compares : 8022829;	moves : 8038851;	time : 195793 us;	 t : 4000
+n : 8000;  type : combined;	  compares : 3999707;	moves : 4023746;	time : 98156 us;	 t : 2000
+n : 8000;  type : combined;	  compares : 2033283;	moves : 2065346;	time : 50597 us;	 t : 1000
+n : 8000;  type : combined;	  compares : 1040909;	moves : 1081020;	time : 26522 us;	 t : 500
+n : 8000;  type : combined;	  compares : 546234;	moves : 594429;	time : 14764 us;	 t : 250
+n : 8000;  type : combined;	  compares : 302464;	moves : 358793;	time : 9129 us;	 t : 125
+n : 8000;  type : combined;	  compares : 186037;	moves : 250640;	time : 6636 us;	 t : 62
+n : 8000;  type : combined;	  compares : 131774;	moves : 204812;	time : 5742 us;	 t : 31
+n : 8000;  type : combined;	  compares : 106815;	moves : 188546;	time : 5702 us;	 t : 15
+n : 8000;  type : combined;	  compares : 96926;	moves : 187552;	time : 6386 us;	 t : 7
+n : 8000;  type : combined;	  compares : 94039;	moves : 193695;	time : 7818 us;	 t : 3
+n : 8100;  type : insertion;	  compares : 16369690;	moves : 16377799;	time : 399310 us
+n : 8100;  type : merge;    	  compares : 94964;	moves : 210416;	time : 10937 us
+n : 8100;  type : combined;	  compares : 16369690;	moves : 16377799;	time : 399361 us;	 t : 8100
+n : 8100;  type : combined;	  compares : 8257093;	moves : 8273312;	time : 202120 us;	 t : 4050
+n : 8100;  type : combined;	  compares : 4133315;	moves : 4157651;	time : 101568 us;	 t : 2025
+n : 8100;  type : combined;	  compares : 2089727;	moves : 2122177;	time : 51909 us;	 t : 1012
+n : 8100;  type : combined;	  compares : 1065180;	moves : 1105790;	time : 27119 us;	 t : 506
+n : 8100;  type : combined;	  compares : 560224;	moves : 609045;	time : 15116 us;	 t : 253
+n : 8100;  type : combined;	  compares : 311715;	moves : 368782;	time : 9374 us;	 t : 126
+n : 8100;  type : combined;	  compares : 189534;	moves : 254988;	time : 6763 us;	 t : 63
+n : 8100;  type : combined;	  compares : 133682;	moves : 207626;	time : 5801 us;	 t : 31
+n : 8100;  type : combined;	  compares : 108497;	moves : 191175;	time : 5758 us;	 t : 15
+n : 8100;  type : combined;	  compares : 98495;	moves : 190190;	time : 6431 us;	 t : 7
+n : 8100;  type : combined;	  compares : 95520;	moves : 196337;	time : 7881 us;	 t : 3
+n : 8200;  type : insertion;	  compares : 16913690;	moves : 16921900;	time : 412807 us
+n : 8200;  type : merge;    	  compares : 96159;	moves : 213232;	time : 11091 us
+n : 8200;  type : combined;	  compares : 16913690;	moves : 16921900;	time : 412999 us;	 t : 8200
+n : 8200;  type : combined;	  compares : 8427208;	moves : 8443626;	time : 219145 us;	 t : 4100
+n : 8200;  type : combined;	  compares : 4240070;	moves : 4264705;	time : 111434 us;	 t : 2050
+n : 8200;  type : combined;	  compares : 2151601;	moves : 2184452;	time : 57642 us;	 t : 1025
+n : 8200;  type : combined;	  compares : 1093751;	moves : 1134843;	time : 29646 us;	 t : 512
+n : 8200;  type : combined;	  compares : 572667;	moves : 622052;	time : 16419 us;	 t : 256
+n : 8200;  type : combined;	  compares : 318989;	moves : 376724;	time : 10232 us;	 t : 128
+n : 8200;  type : combined;	  compares : 195261;	moves : 261457;	time : 7355 us;	 t : 64
+n : 8200;  type : combined;	  compares : 135770;	moves : 210614;	time : 6290 us;	 t : 32
+n : 8200;  type : combined;	  compares : 110456;	moves : 194226;	time : 6223 us;	 t : 16
+n : 8200;  type : combined;	  compares : 100070;	moves : 192968;	time : 7071 us;	 t : 8
+n : 8200;  type : combined;	  compares : 96726;	moves : 198950;	time : 8752 us;	 t : 4
+n : 8200;  type : combined;	  compares : 96720;	moves : 198987;	time : 8765 us;	 t : 2
+n : 8300;  type : insertion;	  compares : 17155867;	moves : 17164173;	time : 444117 us
+n : 8300;  type : merge;    	  compares : 97540;	moves : 216232;	time : 11244 us
+n : 8300;  type : combined;	  compares : 17155867;	moves : 17164173;	time : 419074 us;	 t : 8300
+n : 8300;  type : combined;	  compares : 8586987;	moves : 8603603;	time : 217604 us;	 t : 4150
+n : 8300;  type : combined;	  compares : 4304995;	moves : 4329926;	time : 113718 us;	 t : 2075
+n : 8300;  type : combined;	  compares : 2151394;	moves : 2184655;	time : 56727 us;	 t : 1037
+n : 8300;  type : combined;	  compares : 1109957;	moves : 1151584;	time : 30442 us;	 t : 518
+n : 8300;  type : combined;	  compares : 579385;	moves : 629385;	time : 17014 us;	 t : 259
+n : 8300;  type : combined;	  compares : 324197;	moves : 382677;	time : 10324 us;	 t : 129
+n : 8300;  type : combined;	  compares : 199451;	moves : 266472;	time : 7488 us;	 t : 64
+n : 8300;  type : combined;	  compares : 139002;	moves : 214755;	time : 6337 us;	 t : 32
+n : 8300;  type : combined;	  compares : 111801;	moves : 196569;	time : 6297 us;	 t : 16
+n : 8300;  type : combined;	  compares : 101337;	moves : 195334;	time : 6971 us;	 t : 8
+n : 8300;  type : combined;	  compares : 98029;	moves : 201394;	time : 8516 us;	 t : 4
+n : 8300;  type : combined;	  compares : 97978;	moves : 201946;	time : 8665 us;	 t : 2
+n : 8400;  type : insertion;	  compares : 17551823;	moves : 17560230;	time : 429826 us
+n : 8400;  type : merge;    	  compares : 98828;	moves : 219232;	time : 11378 us
+n : 8400;  type : combined;	  compares : 17551823;	moves : 17560230;	time : 453751 us;	 t : 8400
+n : 8400;  type : combined;	  compares : 8786451;	moves : 8803266;	time : 229980 us;	 t : 4200
+n : 8400;  type : combined;	  compares : 4428511;	moves : 4453735;	time : 116948 us;	 t : 2100
+n : 8400;  type : combined;	  compares : 2230860;	moves : 2264506;	time : 59538 us;	 t : 1050
+n : 8400;  type : combined;	  compares : 1146466;	moves : 1188563;	time : 31049 us;	 t : 525
+n : 8400;  type : combined;	  compares : 604361;	moves : 654930;	time : 17557 us;	 t : 262
+n : 8400;  type : combined;	  compares : 332189;	moves : 391289;	time : 10674 us;	 t : 131
+n : 8400;  type : combined;	  compares : 202125;	moves : 269884;	time : 7564 us;	 t : 65
+n : 8400;  type : combined;	  compares : 140846;	moves : 217460;	time : 6451 us;	 t : 32
+n : 8400;  type : combined;	  compares : 113549;	moves : 199201;	time : 6350 us;	 t : 16
+n : 8400;  type : combined;	  compares : 102752;	moves : 197811;	time : 7246 us;	 t : 8
+n : 8400;  type : combined;	  compares : 99401;	moves : 204056;	time : 8110 us;	 t : 4
+n : 8400;  type : combined;	  compares : 99289;	moves : 205094;	time : 8407 us;	 t : 2
+n : 8500;  type : insertion;	  compares : 17954815;	moves : 17963321;	time : 437778 us
+n : 8500;  type : merge;    	  compares : 100246;	moves : 222232;	time : 11550 us
+n : 8500;  type : combined;	  compares : 17954815;	moves : 17963321;	time : 438444 us;	 t : 8500
+n : 8500;  type : combined;	  compares : 8983635;	moves : 9000647;	time : 225555 us;	 t : 4250
+n : 8500;  type : combined;	  compares : 4547954;	moves : 4573483;	time : 118993 us;	 t : 2125
+n : 8500;  type : combined;	  compares : 2305122;	moves : 2339179;	time : 60770 us;	 t : 1062
+n : 8500;  type : combined;	  compares : 1179277;	moves : 1221888;	time : 31911 us;	 t : 531
+n : 8500;  type : combined;	  compares : 619071;	moves : 670288;	time : 17750 us;	 t : 265
+n : 8500;  type : combined;	  compares : 341437;	moves : 401307;	time : 10946 us;	 t : 132
+n : 8500;  type : combined;	  compares : 207342;	moves : 275959;	time : 7746 us;	 t : 66
+n : 8500;  type : combined;	  compares : 144048;	moves : 221629;	time : 6594 us;	 t : 33
+n : 8500;  type : combined;	  compares : 115728;	moves : 202480;	time : 6520 us;	 t : 16
+n : 8500;  type : combined;	  compares : 104222;	moves : 200444;	time : 7169 us;	 t : 8
+n : 8500;  type : combined;	  compares : 100806;	moves : 206697;	time : 9016 us;	 t : 4
+n : 8500;  type : combined;	  compares : 100689;	moves : 208277;	time : 9432 us;	 t : 2
+n : 8600;  type : insertion;	  compares : 18373342;	moves : 18381947;	time : 459786 us
+n : 8600;  type : merge;    	  compares : 101664;	moves : 225232;	time : 11704 us
+n : 8600;  type : combined;	  compares : 18373342;	moves : 18381947;	time : 458136 us;	 t : 8600
+n : 8600;  type : combined;	  compares : 9264461;	moves : 9281673;	time : 244026 us;	 t : 4300
+n : 8600;  type : combined;	  compares : 4647765;	moves : 4673590;	time : 122420 us;	 t : 2150
+n : 8600;  type : combined;	  compares : 2330851;	moves : 2365303;	time : 58614 us;	 t : 1075
+n : 8600;  type : combined;	  compares : 1193284;	moves : 1236382;	time : 30358 us;	 t : 537
+n : 8600;  type : combined;	  compares : 627347;	moves : 679139;	time : 16853 us;	 t : 268
+n : 8600;  type : combined;	  compares : 348624;	moves : 409156;	time : 10367 us;	 t : 134
+n : 8600;  type : combined;	  compares : 210451;	moves : 279823;	time : 7378 us;	 t : 67
+n : 8600;  type : combined;	  compares : 145709;	moves : 224130;	time : 6230 us;	 t : 33
+n : 8600;  type : combined;	  compares : 117436;	moves : 205166;	time : 6228 us;	 t : 16
+n : 8600;  type : combined;	  compares : 105734;	moves : 202945;	time : 6775 us;	 t : 8
+n : 8600;  type : combined;	  compares : 102150;	moves : 209036;	time : 8252 us;	 t : 4
+n : 8600;  type : combined;	  compares : 101989;	moves : 211145;	time : 8804 us;	 t : 2
+n : 8700;  type : insertion;	  compares : 18885241;	moves : 18893949;	time : 489425 us
+n : 8700;  type : merge;    	  compares : 102962;	moves : 228232;	time : 12591 us
+n : 8700;  type : combined;	  compares : 18885241;	moves : 18893949;	time : 484124 us;	 t : 8700
+n : 8700;  type : combined;	  compares : 9515874;	moves : 9533289;	time : 244358 us;	 t : 4350
+n : 8700;  type : combined;	  compares : 4795660;	moves : 4821792;	time : 123990 us;	 t : 2175
+n : 8700;  type : combined;	  compares : 2427521;	moves : 2462379;	time : 63711 us;	 t : 1087
+n : 8700;  type : combined;	  compares : 1236415;	moves : 1280017;	time : 32813 us;	 t : 543
+n : 8700;  type : combined;	  compares : 640837;	moves : 693220;	time : 18077 us;	 t : 271
+n : 8700;  type : combined;	  compares : 354605;	moves : 415856;	time : 11208 us;	 t : 135
+n : 8700;  type : combined;	  compares : 214000;	moves : 284193;	time : 7721 us;	 t : 67
+n : 8700;  type : combined;	  compares : 148848;	moves : 228208;	time : 6553 us;	 t : 33
+n : 8700;  type : combined;	  compares : 119071;	moves : 207782;	time : 6407 us;	 t : 16
+n : 8700;  type : combined;	  compares : 107431;	moves : 205863;	time : 7303 us;	 t : 8
+n : 8700;  type : combined;	  compares : 103665;	moves : 211909;	time : 8852 us;	 t : 4
+n : 8700;  type : combined;	  compares : 103341;	moves : 214377;	time : 9372 us;	 t : 2
+n : 8800;  type : insertion;	  compares : 19333740;	moves : 19342549;	time : 497698 us
+n : 8800;  type : merge;    	  compares : 104377;	moves : 231232;	time : 12769 us
+n : 8800;  type : combined;	  compares : 19333740;	moves : 19342549;	time : 499068 us;	 t : 8800
+n : 8800;  type : combined;	  compares : 9602980;	moves : 9620596;	time : 243645 us;	 t : 4400
+n : 8800;  type : combined;	  compares : 4812682;	moves : 4839110;	time : 118175 us;	 t : 2200
+n : 8800;  type : combined;	  compares : 2404670;	moves : 2439928;	time : 59680 us;	 t : 1100
+n : 8800;  type : combined;	  compares : 1239596;	moves : 1283699;	time : 31505 us;	 t : 550
+n : 8800;  type : combined;	  compares : 652759;	moves : 705753;	time : 17514 us;	 t : 275
+n : 8800;  type : combined;	  compares : 361111;	moves : 423066;	time : 10751 us;	 t : 137
+n : 8800;  type : combined;	  compares : 217920;	moves : 288941;	time : 7598 us;	 t : 68
+n : 8800;  type : combined;	  compares : 150159;	moves : 230363;	time : 6415 us;	 t : 34
+n : 8800;  type : combined;	  compares : 120566;	moves : 210255;	time : 6265 us;	 t : 17
+n : 8800;  type : combined;	  compares : 109008;	moves : 208495;	time : 6934 us;	 t : 8
+n : 8800;  type : combined;	  compares : 105037;	moves : 214450;	time : 8372 us;	 t : 4
+n : 8800;  type : combined;	  compares : 104702;	moves : 217468;	time : 9232 us;	 t : 2
+n : 8900;  type : insertion;	  compares : 19767833;	moves : 19776738;	time : 482040 us
+n : 8900;  type : merge;    	  compares : 105691;	moves : 234232;	time : 12161 us
+n : 8900;  type : combined;	  compares : 19767833;	moves : 19776738;	time : 482272 us;	 t : 8900
+n : 8900;  type : combined;	  compares : 9879692;	moves : 9897508;	time : 241340 us;	 t : 4450
+n : 8900;  type : combined;	  compares : 4963969;	moves : 4990702;	time : 123940 us;	 t : 2225
+n : 8900;  type : combined;	  compares : 2504271;	moves : 2539925;	time : 65794 us;	 t : 1112
+n : 8900;  type : combined;	  compares : 1274668;	moves : 1319261;	time : 34366 us;	 t : 556
+n : 8900;  type : combined;	  compares : 667291;	moves : 720874;	time : 19000 us;	 t : 278
+n : 8900;  type : combined;	  compares : 369141;	moves : 431772;	time : 11637 us;	 t : 139
+n : 8900;  type : combined;	  compares : 221951;	moves : 293742;	time : 8224 us;	 t : 69
+n : 8900;  type : combined;	  compares : 153866;	moves : 234985;	time : 6912 us;	 t : 34
+n : 8900;  type : combined;	  compares : 122835;	moves : 213498;	time : 6758 us;	 t : 17
+n : 8900;  type : combined;	  compares : 110389;	moves : 210916;	time : 7421 us;	 t : 8
+n : 8900;  type : combined;	  compares : 106465;	moves : 217125;	time : 8999 us;	 t : 4
+n : 8900;  type : combined;	  compares : 106073;	moves : 220667;	time : 10028 us;	 t : 2
+n : 9000;  type : insertion;	  compares : 20238729;	moves : 20247740;	time : 527797 us
+n : 9000;  type : merge;    	  compares : 106926;	moves : 237232;	time : 13069 us
+n : 9000;  type : combined;	  compares : 20238729;	moves : 20247740;	time : 504788 us;	 t : 9000
+n : 9000;  type : combined;	  compares : 10165342;	moves : 10183365;	time : 248788 us;	 t : 4500
+n : 9000;  type : combined;	  compares : 5143273;	moves : 5170303;	time : 126247 us;	 t : 2250
+n : 9000;  type : combined;	  compares : 2561245;	moves : 2597311;	time : 63470 us;	 t : 1125
+n : 9000;  type : combined;	  compares : 1307679;	moves : 1352807;	time : 33171 us;	 t : 562
+n : 9000;  type : combined;	  compares : 687243;	moves : 741456;	time : 18397 us;	 t : 281
+n : 9000;  type : combined;	  compares : 377139;	moves : 440488;	time : 11146 us;	 t : 140
+n : 9000;  type : combined;	  compares : 226090;	moves : 298714;	time : 7846 us;	 t : 70
+n : 9000;  type : combined;	  compares : 156187;	moves : 238273;	time : 6588 us;	 t : 35
+n : 9000;  type : combined;	  compares : 124622;	moves : 216387;	time : 6458 us;	 t : 17
+n : 9000;  type : combined;	  compares : 111921;	moves : 213711;	time : 7052 us;	 t : 8
+n : 9000;  type : combined;	  compares : 107737;	moves : 219744;	time : 8507 us;	 t : 4
+n : 9000;  type : combined;	  compares : 107262;	moves : 223793;	time : 9632 us;	 t : 2
+n : 9100;  type : insertion;	  compares : 20707524;	moves : 20716637;	time : 505576 us
+n : 9100;  type : merge;    	  compares : 108318;	moves : 240232;	time : 12461 us
+n : 9100;  type : combined;	  compares : 20707524;	moves : 20716637;	time : 505151 us;	 t : 9100
+n : 9100;  type : combined;	  compares : 10368052;	moves : 10386268;	time : 253212 us;	 t : 4550
+n : 9100;  type : combined;	  compares : 5166173;	moves : 5193511;	time : 126743 us;	 t : 2275
+n : 9100;  type : combined;	  compares : 2600563;	moves : 2637022;	time : 64109 us;	 t : 1137
+n : 9100;  type : combined;	  compares : 1331837;	moves : 1377448;	time : 33718 us;	 t : 568
+n : 9100;  type : combined;	  compares : 695190;	moves : 749990;	time : 18633 us;	 t : 284
+n : 9100;  type : combined;	  compares : 384677;	moves : 448739;	time : 11353 us;	 t : 142
+n : 9100;  type : combined;	  compares : 231761;	moves : 305225;	time : 8017 us;	 t : 71
+n : 9100;  type : combined;	  compares : 160060;	moves : 243115;	time : 6700 us;	 t : 35
+n : 9100;  type : combined;	  compares : 126838;	moves : 219667;	time : 6504 us;	 t : 17
+n : 9100;  type : combined;	  compares : 113361;	moves : 216236;	time : 7108 us;	 t : 8
+n : 9100;  type : combined;	  compares : 109128;	moves : 222307;	time : 8571 us;	 t : 4
+n : 9100;  type : combined;	  compares : 108650;	moves : 226894;	time : 9823 us;	 t : 2
+n : 9200;  type : insertion;	  compares : 21164510;	moves : 21173719;	time : 539138 us
+n : 9200;  type : merge;    	  compares : 109646;	moves : 243232;	time : 13464 us
+n : 9200;  type : combined;	  compares : 21164510;	moves : 21173719;	time : 551174 us;	 t : 9200
+n : 9200;  type : combined;	  compares : 10633539;	moves : 10651956;	time : 277069 us;	 t : 4600
+n : 9200;  type : combined;	  compares : 5396022;	moves : 5423654;	time : 136811 us;	 t : 2300
+n : 9200;  type : combined;	  compares : 2735207;	moves : 2772077;	time : 67836 us;	 t : 1150
+n : 9200;  type : combined;	  compares : 1372950;	moves : 1419066;	time : 36344 us;	 t : 575
+n : 9200;  type : combined;	  compares : 715083;	moves : 770480;	time : 20377 us;	 t : 287
+n : 9200;  type : combined;	  compares : 393287;	moves : 458026;	time : 12391 us;	 t : 143
+n : 9200;  type : combined;	  compares : 235560;	moves : 309738;	time : 8917 us;	 t : 71
+n : 9200;  type : combined;	  compares : 161525;	moves : 245341;	time : 7525 us;	 t : 35
+n : 9200;  type : combined;	  compares : 128076;	moves : 221795;	time : 7357 us;	 t : 17
+n : 9200;  type : combined;	  compares : 114865;	moves : 218806;	time : 8044 us;	 t : 8
+n : 9200;  type : combined;	  compares : 110449;	moves : 224862;	time : 9576 us;	 t : 4
+n : 9200;  type : combined;	  compares : 109873;	moves : 229937;	time : 11116 us;	 t : 2
+n : 9300;  type : insertion;	  compares : 21597917;	moves : 21607221;	time : 546860 us
+n : 9300;  type : merge;    	  compares : 111093;	moves : 246232;	time : 14583 us
+n : 9300;  type : combined;	  compares : 21597917;	moves : 21607221;	time : 593926 us;	 t : 9300
+n : 9300;  type : combined;	  compares : 10780814;	moves : 10799424;	time : 285715 us;	 t : 4650
+n : 9300;  type : combined;	  compares : 5386292;	moves : 5414218;	time : 144027 us;	 t : 2325
+n : 9300;  type : combined;	  compares : 2706851;	moves : 2744116;	time : 72602 us;	 t : 1162
+n : 9300;  type : combined;	  compares : 1395128;	moves : 1441736;	time : 38121 us;	 t : 581
+n : 9300;  type : combined;	  compares : 733424;	moves : 789414;	time : 20969 us;	 t : 290
+n : 9300;  type : combined;	  compares : 399476;	moves : 464913;	time : 12510 us;	 t : 145
+n : 9300;  type : combined;	  compares : 238844;	moves : 313858;	time : 8956 us;	 t : 72
+n : 9300;  type : combined;	  compares : 163734;	moves : 248481;	time : 7561 us;	 t : 36
+n : 9300;  type : combined;	  compares : 130240;	moves : 224964;	time : 7307 us;	 t : 18
+n : 9300;  type : combined;	  compares : 116208;	moves : 221151;	time : 7838 us;	 t : 9
+n : 9300;  type : combined;	  compares : 111863;	moves : 227373;	time : 9296 us;	 t : 4
+n : 9300;  type : combined;	  compares : 111287;	moves : 232975;	time : 11329 us;	 t : 2
+n : 9400;  type : insertion;	  compares : 21968576;	moves : 21977982;	time : 563269 us
+n : 9400;  type : merge;    	  compares : 112287;	moves : 249232;	time : 13780 us
+n : 9400;  type : combined;	  compares : 21968576;	moves : 21977982;	time : 578326 us;	 t : 9400
+n : 9400;  type : combined;	  compares : 11041595;	moves : 11060408;	time : 270788 us;	 t : 4700
+n : 9400;  type : combined;	  compares : 5569854;	moves : 5598080;	time : 141024 us;	 t : 2350
+n : 9400;  type : combined;	  compares : 2793708;	moves : 2831365;	time : 74070 us;	 t : 1175
+n : 9400;  type : combined;	  compares : 1411317;	moves : 1458419;	time : 38158 us;	 t : 587
+n : 9400;  type : combined;	  compares : 738398;	moves : 794999;	time : 21250 us;	 t : 293
+n : 9400;  type : combined;	  compares : 406640;	moves : 472795;	time : 13003 us;	 t : 146
+n : 9400;  type : combined;	  compares : 245980;	moves : 321801;	time : 8994 us;	 t : 73
+n : 9400;  type : combined;	  compares : 168551;	moves : 254242;	time : 7513 us;	 t : 36
+n : 9400;  type : combined;	  compares : 132548;	moves : 228353;	time : 7416 us;	 t : 18
+n : 9400;  type : combined;	  compares : 118148;	moves : 224385;	time : 7939 us;	 t : 9
+n : 9400;  type : combined;	  compares : 113217;	moves : 230103;	time : 9365 us;	 t : 4
+n : 9400;  type : combined;	  compares : 112482;	moves : 236112;	time : 11152 us;	 t : 2
+n : 9500;  type : insertion;	  compares : 22606864;	moves : 22616373;	time : 596771 us
+n : 9500;  type : merge;    	  compares : 113767;	moves : 252232;	time : 14227 us
+n : 9500;  type : combined;	  compares : 22606864;	moves : 22616373;	time : 555890 us;	 t : 9500
+n : 9500;  type : combined;	  compares : 11280191;	moves : 11299212;	time : 276140 us;	 t : 4750
+n : 9500;  type : combined;	  compares : 5675685;	moves : 5704223;	time : 139011 us;	 t : 2375
+n : 9500;  type : combined;	  compares : 2839147;	moves : 2877213;	time : 70426 us;	 t : 1187
+n : 9500;  type : combined;	  compares : 1452701;	moves : 1500324;	time : 36860 us;	 t : 593
+n : 9500;  type : combined;	  compares : 757650;	moves : 814866;	time : 20372 us;	 t : 296
+n : 9500;  type : combined;	  compares : 416293;	moves : 483148;	time : 12246 us;	 t : 148
+n : 9500;  type : combined;	  compares : 247801;	moves : 324412;	time : 8511 us;	 t : 74
+n : 9500;  type : combined;	  compares : 169392;	moves : 255940;	time : 7076 us;	 t : 37
+n : 9500;  type : combined;	  compares : 133743;	moves : 230470;	time : 6818 us;	 t : 18
+n : 9500;  type : combined;	  compares : 119480;	moves : 226728;	time : 7423 us;	 t : 9
+n : 9500;  type : combined;	  compares : 114548;	moves : 232546;	time : 8856 us;	 t : 4
+n : 9500;  type : combined;	  compares : 113955;	moves : 239156;	time : 10678 us;	 t : 2
+n : 9600;  type : insertion;	  compares : 23197568;	moves : 23207178;	time : 565861 us
+n : 9600;  type : merge;    	  compares : 115081;	moves : 255232;	time : 13190 us
+n : 9600;  type : combined;	  compares : 23197568;	moves : 23207178;	time : 566282 us;	 t : 9600
+n : 9600;  type : combined;	  compares : 11649993;	moves : 11669211;	time : 285712 us;	 t : 4800
+n : 9600;  type : combined;	  compares : 5841062;	moves : 5869904;	time : 143464 us;	 t : 2400
+n : 9600;  type : combined;	  compares : 2927785;	moves : 2966255;	time : 72512 us;	 t : 1200
+n : 9600;  type : combined;	  compares : 1473962;	moves : 1522088;	time : 37688 us;	 t : 600
+n : 9600;  type : combined;	  compares : 769537;	moves : 827355;	time : 20573 us;	 t : 300
+n : 9600;  type : combined;	  compares : 422333;	moves : 489907;	time : 12443 us;	 t : 150
+n : 9600;  type : combined;	  compares : 253422;	moves : 330837;	time : 8669 us;	 t : 75
+n : 9600;  type : combined;	  compares : 172070;	moves : 259569;	time : 7152 us;	 t : 37
+n : 9600;  type : combined;	  compares : 135446;	moves : 233273;	time : 6878 us;	 t : 18
+n : 9600;  type : combined;	  compares : 120914;	moves : 229337;	time : 7498 us;	 t : 9
+n : 9600;  type : combined;	  compares : 116120;	moves : 235416;	time : 8930 us;	 t : 4
+n : 9600;  type : combined;	  compares : 115271;	moves : 242382;	time : 10889 us;	 t : 2
+n : 9700;  type : insertion;	  compares : 23393115;	moves : 23402818;	time : 570572 us
+n : 9700;  type : merge;    	  compares : 116377;	moves : 258232;	time : 13373 us
+n : 9700;  type : combined;	  compares : 23393115;	moves : 23402818;	time : 570822 us;	 t : 9700
+n : 9700;  type : combined;	  compares : 11594479;	moves : 11613893;	time : 283392 us;	 t : 4850
+n : 9700;  type : combined;	  compares : 5869954;	moves : 5899081;	time : 146522 us;	 t : 2425
+n : 9700;  type : combined;	  compares : 2963233;	moves : 3002092;	time : 78095 us;	 t : 1212
+n : 9700;  type : combined;	  compares : 1501822;	moves : 1550421;	time : 40498 us;	 t : 606
+n : 9700;  type : combined;	  compares : 789811;	moves : 848194;	time : 22628 us;	 t : 303
+n : 9700;  type : combined;	  compares : 432284;	moves : 500508;	time : 13481 us;	 t : 151
+n : 9700;  type : combined;	  compares : 257867;	moves : 336087;	time : 9349 us;	 t : 75
+n : 9700;  type : combined;	  compares : 174856;	moves : 263212;	time : 7734 us;	 t : 37
+n : 9700;  type : combined;	  compares : 137862;	moves : 236593;	time : 7669 us;	 t : 18
+n : 9700;  type : combined;	  compares : 122537;	moves : 232005;	time : 8303 us;	 t : 9
+n : 9700;  type : combined;	  compares : 117283;	moves : 237826;	time : 9889 us;	 t : 4
+n : 9700;  type : combined;	  compares : 116396;	moves : 245336;	time : 12278 us;	 t : 2
+n : 9800;  type : insertion;	  compares : 23866342;	moves : 23876152;	time : 611885 us
+n : 9800;  type : merge;    	  compares : 117723;	moves : 261232;	time : 13623 us
+n : 9800;  type : combined;	  compares : 23866342;	moves : 23876152;	time : 607835 us;	 t : 9800
+n : 9800;  type : combined;	  compares : 11969314;	moves : 11988933;	time : 292379 us;	 t : 4900
+n : 9800;  type : combined;	  compares : 6009053;	moves : 6038491;	time : 147539 us;	 t : 2450
+n : 9800;  type : combined;	  compares : 3040179;	moves : 3079440;	time : 75120 us;	 t : 1225
+n : 9800;  type : combined;	  compares : 1527874;	moves : 1576983;	time : 38700 us;	 t : 612
+n : 9800;  type : combined;	  compares : 804521;	moves : 863516;	time : 21410 us;	 t : 306
+n : 9800;  type : combined;	  compares : 441809;	moves : 510735;	time : 12905 us;	 t : 153
+n : 9800;  type : combined;	  compares : 262613;	moves : 341603;	time : 8944 us;	 t : 76
+n : 9800;  type : combined;	  compares : 176696;	moves : 265942;	time : 7340 us;	 t : 38
+n : 9800;  type : combined;	  compares : 139440;	moves : 239254;	time : 7057 us;	 t : 19
+n : 9800;  type : combined;	  compares : 123923;	moves : 234611;	time : 7621 us;	 t : 9
+n : 9800;  type : combined;	  compares : 118634;	moves : 240366;	time : 9082 us;	 t : 4
+n : 9800;  type : combined;	  compares : 117757;	moves : 248405;	time : 11430 us;	 t : 2
+n : 9900;  type : insertion;	  compares : 24587333;	moves : 24597241;	time : 623955 us
+n : 9900;  type : merge;    	  compares : 119055;	moves : 264232;	time : 14935 us
+n : 9900;  type : combined;	  compares : 24587333;	moves : 24597241;	time : 608680 us;	 t : 9900
+n : 9900;  type : combined;	  compares : 12302692;	moves : 12322511;	time : 305895 us;	 t : 4950
+n : 9900;  type : combined;	  compares : 6194260;	moves : 6223998;	time : 163474 us;	 t : 2475
+n : 9900;  type : combined;	  compares : 3141613;	moves : 3181291;	time : 83999 us;	 t : 1237
+n : 9900;  type : combined;	  compares : 1591471;	moves : 1641110;	time : 42936 us;	 t : 618
+n : 9900;  type : combined;	  compares : 817245;	moves : 876862;	time : 23658 us;	 t : 309
+n : 9900;  type : combined;	  compares : 448233;	moves : 517905;	time : 14341 us;	 t : 154
+n : 9900;  type : combined;	  compares : 266566;	moves : 346428;	time : 9620 us;	 t : 77
+n : 9900;  type : combined;	  compares : 180426;	moves : 270613;	time : 7885 us;	 t : 38
+n : 9900;  type : combined;	  compares : 141641;	moves : 242467;	time : 7585 us;	 t : 19
+n : 9900;  type : combined;	  compares : 125659;	moves : 237350;	time : 8208 us;	 t : 9
+n : 9900;  type : combined;	  compares : 120188;	moves : 243139;	time : 9897 us;	 t : 4
+n : 9900;  type : combined;	  compares : 119178;	moves : 251616;	time : 12441 us;	 t : 2
+
+n : 10000;  type : insertion;	  compares : 25085736;	moves : 25095739;	time : 660456 us
+n : 10000;  type : combined;	  compares : 25085736;	moves : 25095739;	time : 660318 us;	 t : 10000
+n : 10000;  type : combined;	  compares : 12610416;	moves : 12630432;	time : 332399 us;	 t : 5000
+n : 10000;  type : combined;	  compares : 6283249;	moves : 6313280;	time : 166077 us;	 t : 2500
+n : 10000;  type : combined;	  compares : 3145805;	moves : 3185859;	time : 84011 us;	 t : 1250
+n : 10000;  type : combined;	  compares : 1604096;	moves : 1654203;	time : 44024 us;	 t : 625
+n : 10000;  type : combined;	  compares : 836876;	moves : 897073;	time : 23766 us;	 t : 312
+n : 10000;  type : combined;	  compares : 455003;	moves : 525362;	time : 14546 us;	 t : 156
+n : 10000;  type : combined;	  compares : 269143;	moves : 349766;	time : 9756 us;	 t : 78
+n : 10000;  type : combined;	  compares : 182710;	moves : 273812;	time : 8080 us;	 t : 39
+n : 10000;  type : combined;	  compares : 143423;	moves : 245181;	time : 7803 us;	 t : 19
+n : 10000;  type : combined;	  compares : 126953;	moves : 239728;	time : 8241 us;	 t : 9
+n : 10000;  type : combined;	  compares : 121507;	moves : 245649;	time : 9846 us;	 t : 4
+n : 10000;  type : combined;	  compares : 120434;	moves : 254669;	time : 12693 us;	 t : 2
+n : 10000;  type : merge;    	  compares : 120415;	moves : 267232;	time : 14631 us

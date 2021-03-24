@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L1/1 - myFIFO.c
+stdio.h
+-
+stdlib.h
+-
+

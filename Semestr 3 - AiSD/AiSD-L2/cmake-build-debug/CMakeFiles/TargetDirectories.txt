@@ -1,0 +1,3 @@
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L2/cmake-build-debug/CMakeFiles/AiSD-L2.dir
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROGRAMOWANIE/GitHub/U.CodeArchives/Semestr 3 - AiSD/AiSD-L2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
